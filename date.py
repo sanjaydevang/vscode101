@@ -7,10 +7,4 @@ def say_day_of_week(date):
     except ValueError:
         print("Invalid date format. Please use YYYY-MM-DD.")
 
-def greet(name):
-
-    print(f"Hello, {name}!")
-
-# Call both functions
-say_day_of_week("2025-05-08")
-greet("Sanjay")
+say_day_of_week("2023-10-01")
