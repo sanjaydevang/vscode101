@@ -19,4 +19,4 @@ for i in range(5):
         print(f"hello, {name2}")
 
     for j in sorted(name2):
-        print(j)
+        print(j   )
