@@ -1,0 +1,341 @@
+2025-05-15 20:21:53,613 - INFO - Loaded input file with 30 rows
+2025-05-15 20:25:17,276 - INFO - Starting risk factor extraction script
+2025-05-15 20:25:17,288 - INFO - Loaded input file with 30 rows
+2025-05-15 20:25:17,288 - INFO - Column names in the CSV file: ['cik', 'filingyear', 'filingdate', 'reportingdate', 'RFDTitle']
+2025-05-15 20:25:17,290 - INFO - Renamed columns: {'cik': 'CIK', 'filingyear': 'Filing Year'}
+2025-05-15 20:25:17,291 - INFO - Processing CIK 1750.0 for filing year 2018
+2025-05-15 20:25:17,291 - INFO - Searching for 10-K filings for CIK 1750.0 in 2018
+2025-05-15 20:25:17,696 - WARNING - No filing table found for CIK 1750.0 in 2018
+2025-05-15 20:25:17,698 - ERROR - Could not find 10-K filing for CIK 1750.0 in 2018
+2025-05-15 20:25:18,703 - INFO - Processing CIK 1750.0 for filing year 2017
+2025-05-15 20:25:18,704 - INFO - Searching for 10-K filings for CIK 1750.0 in 2017
+2025-05-15 20:25:19,024 - WARNING - No filing table found for CIK 1750.0 in 2017
+2025-05-15 20:25:19,026 - ERROR - Could not find 10-K filing for CIK 1750.0 in 2017
+2025-05-15 20:25:20,032 - INFO - Processing CIK 1750.0 for filing year 2016
+2025-05-15 20:25:20,033 - INFO - Searching for 10-K filings for CIK 1750.0 in 2016
+2025-05-15 20:25:20,500 - WARNING - No filing table found for CIK 1750.0 in 2016
+2025-05-15 20:25:20,503 - ERROR - Could not find 10-K filing for CIK 1750.0 in 2016
+2025-05-15 20:25:21,507 - INFO - Processing CIK 1800.0 for filing year 2017
+2025-05-15 20:25:21,508 - INFO - Searching for 10-K filings for CIK 1800.0 in 2017
+2025-05-15 20:25:21,785 - WARNING - No filing table found for CIK 1800.0 in 2017
+2025-05-15 20:25:21,788 - ERROR - Could not find 10-K filing for CIK 1800.0 in 2017
+2025-05-15 20:25:22,792 - INFO - Processing CIK 1800.0 for filing year 2016
+2025-05-15 20:25:22,793 - INFO - Searching for 10-K filings for CIK 1800.0 in 2016
+2025-05-15 20:25:23,249 - WARNING - No filing table found for CIK 1800.0 in 2016
+2025-05-15 20:25:23,253 - ERROR - Could not find 10-K filing for CIK 1800.0 in 2016
+2025-05-15 20:25:24,259 - INFO - Processing CIK 1800.0 for filing year 2015
+2025-05-15 20:25:24,259 - INFO - Searching for 10-K filings for CIK 1800.0 in 2015
+2025-05-15 20:25:24,584 - WARNING - No filing table found for CIK 1800.0 in 2015
+2025-05-15 20:25:24,587 - ERROR - Could not find 10-K filing for CIK 1800.0 in 2015
+2025-05-15 20:25:25,593 - INFO - Processing CIK 2034.0 for filing year 2017
+2025-05-15 20:25:25,594 - INFO - Searching for 10-K filings for CIK 2034.0 in 2017
+2025-05-15 20:25:25,919 - WARNING - No filing table found for CIK 2034.0 in 2017
+2025-05-15 20:25:25,921 - ERROR - Could not find 10-K filing for CIK 2034.0 in 2017
+2025-05-15 20:25:26,927 - INFO - Processing CIK 2034.0 for filing year 2016
+2025-05-15 20:25:26,928 - INFO - Searching for 10-K filings for CIK 2034.0 in 2016
+2025-05-15 20:25:27,418 - WARNING - No filing table found for CIK 2034.0 in 2016
+2025-05-15 20:25:27,421 - ERROR - Could not find 10-K filing for CIK 2034.0 in 2016
+2025-05-15 20:25:28,428 - INFO - Processing CIK 2034.0 for filing year 2015
+2025-05-15 20:25:28,429 - INFO - Searching for 10-K filings for CIK 2034.0 in 2015
+2025-05-15 20:25:28,795 - WARNING - No filing table found for CIK 2034.0 in 2015
+2025-05-15 20:25:28,798 - ERROR - Could not find 10-K filing for CIK 2034.0 in 2015
+2025-05-15 20:25:29,807 - INFO - Processing CIK 2488.0 for filing year 2010
+2025-05-15 20:25:29,808 - INFO - Searching for 10-K filings for CIK 2488.0 in 2010
+2025-05-15 20:25:30,117 - WARNING - No filing table found for CIK 2488.0 in 2010
+2025-05-15 20:25:30,119 - ERROR - Could not find 10-K filing for CIK 2488.0 in 2010
+2025-05-15 20:25:31,125 - INFO - Processing CIK 2488.0 for filing year 2009
+2025-05-15 20:25:31,125 - INFO - Searching for 10-K filings for CIK 2488.0 in 2009
+2025-05-15 20:25:31,484 - WARNING - No filing table found for CIK 2488.0 in 2009
+2025-05-15 20:25:31,486 - ERROR - Could not find 10-K filing for CIK 2488.0 in 2009
+2025-05-15 20:25:32,492 - INFO - Processing CIK 2488.0 for filing year 2008
+2025-05-15 20:25:32,493 - INFO - Searching for 10-K filings for CIK 2488.0 in 2008
+2025-05-15 20:25:32,893 - WARNING - No filing table found for CIK 2488.0 in 2008
+2025-05-15 20:25:32,896 - ERROR - Could not find 10-K filing for CIK 2488.0 in 2008
+2025-05-15 20:25:33,902 - INFO - Processing CIK 3116.0 for filing year 2015
+2025-05-15 20:25:33,903 - INFO - Searching for 10-K filings for CIK 3116.0 in 2015
+2025-05-15 20:25:34,204 - WARNING - No filing table found for CIK 3116.0 in 2015
+2025-05-15 20:25:34,207 - ERROR - Could not find 10-K filing for CIK 3116.0 in 2015
+2025-05-15 20:25:35,213 - INFO - Processing CIK 3116.0 for filing year 2014
+2025-05-15 20:25:35,213 - INFO - Searching for 10-K filings for CIK 3116.0 in 2014
+2025-05-15 20:25:35,630 - WARNING - No filing table found for CIK 3116.0 in 2014
+2025-05-15 20:25:35,633 - ERROR - Could not find 10-K filing for CIK 3116.0 in 2014
+2025-05-15 20:25:36,639 - INFO - Processing CIK 3116.0 for filing year 2013
+2025-05-15 20:25:36,640 - INFO - Searching for 10-K filings for CIK 3116.0 in 2013
+2025-05-15 20:25:36,965 - WARNING - No filing table found for CIK 3116.0 in 2013
+2025-05-15 20:25:36,968 - ERROR - Could not find 10-K filing for CIK 3116.0 in 2013
+2025-05-15 20:25:37,974 - INFO - Processing CIK 4962.0 for filing year 2012
+2025-05-15 20:25:37,975 - INFO - Searching for 10-K filings for CIK 4962.0 in 2012
+2025-05-15 20:25:38,317 - WARNING - No filing table found for CIK 4962.0 in 2012
+2025-05-15 20:25:38,319 - ERROR - Could not find 10-K filing for CIK 4962.0 in 2012
+2025-05-15 20:25:39,325 - INFO - Processing CIK 4962.0 for filing year 2011
+2025-05-15 20:25:39,326 - INFO - Searching for 10-K filings for CIK 4962.0 in 2011
+2025-05-15 20:25:39,608 - WARNING - No filing table found for CIK 4962.0 in 2011
+2025-05-15 20:25:39,609 - ERROR - Could not find 10-K filing for CIK 4962.0 in 2011
+2025-05-15 20:25:40,612 - INFO - Processing CIK 4962.0 for filing year 2010
+2025-05-15 20:25:40,613 - INFO - Searching for 10-K filings for CIK 4962.0 in 2010
+2025-05-15 20:25:40,950 - WARNING - No filing table found for CIK 4962.0 in 2010
+2025-05-15 20:25:40,953 - ERROR - Could not find 10-K filing for CIK 4962.0 in 2010
+2025-05-15 20:25:41,959 - INFO - Processing CIK 4977.0 for filing year 2009
+2025-05-15 20:25:41,960 - INFO - Searching for 10-K filings for CIK 4977.0 in 2009
+2025-05-15 20:25:42,340 - WARNING - No filing table found for CIK 4977.0 in 2009
+2025-05-15 20:25:42,343 - ERROR - Could not find 10-K filing for CIK 4977.0 in 2009
+2025-05-15 20:25:43,350 - INFO - Processing CIK 4977.0 for filing year 2008
+2025-05-15 20:25:43,352 - INFO - Searching for 10-K filings for CIK 4977.0 in 2008
+2025-05-15 20:25:43,666 - WARNING - No filing table found for CIK 4977.0 in 2008
+2025-05-15 20:25:43,669 - ERROR - Could not find 10-K filing for CIK 4977.0 in 2008
+2025-05-15 20:25:44,677 - INFO - Processing CIK 4977.0 for filing year 2007
+2025-05-15 20:25:44,677 - INFO - Searching for 10-K filings for CIK 4977.0 in 2007
+2025-05-15 20:25:45,165 - WARNING - No filing table found for CIK 4977.0 in 2007
+2025-05-15 20:25:45,169 - ERROR - Could not find 10-K filing for CIK 4977.0 in 2007
+2025-05-15 20:25:46,174 - INFO - Processing CIK 5768.0 for filing year 2009
+2025-05-15 20:25:46,175 - INFO - Searching for 10-K filings for CIK 5768.0 in 2009
+2025-05-15 20:25:46,534 - WARNING - No filing table found for CIK 5768.0 in 2009
+2025-05-15 20:25:46,538 - ERROR - Could not find 10-K filing for CIK 5768.0 in 2009
+2025-05-15 20:25:47,543 - INFO - Processing CIK 5768.0 for filing year 2008
+2025-05-15 20:25:47,543 - INFO - Searching for 10-K filings for CIK 5768.0 in 2008
+2025-05-15 20:25:47,876 - WARNING - No filing table found for CIK 5768.0 in 2008
+2025-05-15 20:25:47,878 - ERROR - Could not find 10-K filing for CIK 5768.0 in 2008
+2025-05-15 20:25:48,884 - INFO - Processing CIK 5768.0 for filing year 2007
+2025-05-15 20:25:48,885 - INFO - Searching for 10-K filings for CIK 5768.0 in 2007
+2025-05-15 20:25:49,265 - WARNING - No filing table found for CIK 5768.0 in 2007
+2025-05-15 20:25:49,268 - ERROR - Could not find 10-K filing for CIK 5768.0 in 2007
+2025-05-15 20:25:50,275 - INFO - Processing CIK 6201.0 for filing year 2007
+2025-05-15 20:25:50,275 - INFO - Searching for 10-K filings for CIK 6201.0 in 2007
+2025-05-15 20:25:50,572 - WARNING - No filing table found for CIK 6201.0 in 2007
+2025-05-15 20:25:50,574 - ERROR - Could not find 10-K filing for CIK 6201.0 in 2007
+2025-05-15 20:25:51,582 - INFO - Processing CIK 6201.0 for filing year 2006
+2025-05-15 20:25:51,583 - INFO - Searching for 10-K filings for CIK 6201.0 in 2006
+2025-05-15 20:25:51,961 - WARNING - No filing table found for CIK 6201.0 in 2006
+2025-05-15 20:25:51,962 - ERROR - Could not find 10-K filing for CIK 6201.0 in 2006
+2025-05-15 20:25:52,965 - INFO - Processing CIK 6201.0 for filing year 2005
+2025-05-15 20:25:52,966 - INFO - Searching for 10-K filings for CIK 6201.0 in 2005
+2025-05-15 20:25:53,344 - WARNING - No filing table found for CIK 6201.0 in 2005
+2025-05-15 20:25:53,348 - ERROR - Could not find 10-K filing for CIK 6201.0 in 2005
+2025-05-15 20:25:54,357 - INFO - Processing CIK 6720.0 for filing year 2007
+2025-05-15 20:25:54,358 - INFO - Searching for 10-K filings for CIK 6720.0 in 2007
+2025-05-15 20:25:54,662 - WARNING - No filing table found for CIK 6720.0 in 2007
+2025-05-15 20:25:54,664 - ERROR - Could not find 10-K filing for CIK 6720.0 in 2007
+2025-05-15 20:25:55,672 - INFO - Processing CIK 6720.0 for filing year 2006
+2025-05-15 20:25:55,673 - INFO - Searching for 10-K filings for CIK 6720.0 in 2006
+2025-05-15 20:25:56,047 - WARNING - No filing table found for CIK 6720.0 in 2006
+2025-05-15 20:25:56,051 - ERROR - Could not find 10-K filing for CIK 6720.0 in 2006
+2025-05-15 20:25:57,057 - INFO - Processing CIK 6720.0 for filing year 2005
+2025-05-15 20:25:57,058 - INFO - Searching for 10-K filings for CIK 6720.0 in 2005
+2025-05-15 20:25:57,385 - WARNING - No filing table found for CIK 6720.0 in 2005
+2025-05-15 20:25:57,387 - ERROR - Could not find 10-K filing for CIK 6720.0 in 2005
+2025-05-15 20:25:58,392 - WARNING - No results were extracted. Output file not created.
+2025-05-15 20:25:58,397 - INFO - Total time elapsed: 41.12 seconds
+2025-05-15 20:36:59,866 - INFO - Starting risk factor extraction script
+2025-05-15 20:36:59,866 - ERROR - Error loading or processing input file: name 'pd' is not defined
+2025-05-15 20:39:43,137 - INFO - Starting risk factor extraction script
+2025-05-15 20:39:43,404 - INFO - Loaded input file with 30 rows
+2025-05-15 20:39:43,404 - INFO - Column names in the CSV file: ['cik', 'filingyear', 'filingdate', 'reportingdate', 'RFDTitle']
+2025-05-15 20:39:43,406 - INFO - Renamed columns: {'cik': 'CIK', 'filingyear': 'Filing Year'}
+2025-05-15 20:39:43,406 - INFO - Processing CIK 1750.0 for filing year 2018
+2025-05-15 20:39:43,406 - INFO - Searching for 10-K filings for CIK 1750 in 2018
+2025-05-15 20:39:43,406 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=1750&type=10-K&dateb=20181231&datea=20180101&owner=exclude&count=100
+2025-05-15 20:39:44,366 - INFO - Found 10-K filing for CIK 1750 in 2018, filed on 2018-07-11
+2025-05-15 20:39:46,666 - WARNING - Could not find the start of Item 1A. Risk Factors section
+2025-05-15 20:39:46,666 - ERROR - Could not extract risk factors section for CIK 1750 in 2018
+2025-05-15 20:39:46,666 - INFO - Creating mock data for CIK 1750 in 2018
+2025-05-15 20:39:47,678 - INFO - Processing CIK 1750.0 for filing year 2017
+2025-05-15 20:39:47,679 - INFO - Searching for 10-K filings for CIK 1750 in 2017
+2025-05-15 20:39:47,679 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=1750&type=10-K&dateb=20171231&datea=20170101&owner=exclude&count=100
+2025-05-15 20:39:48,528 - INFO - Found 10-K filing for CIK 1750 in 2017, filed on 2017-07-12
+2025-05-15 20:39:50,926 - WARNING - Could not find the start of Item 1A. Risk Factors section
+2025-05-15 20:39:50,926 - ERROR - Could not extract risk factors section for CIK 1750 in 2017
+2025-05-15 20:39:50,926 - INFO - Creating mock data for CIK 1750 in 2017
+2025-05-15 20:39:51,933 - INFO - Processing CIK 1750.0 for filing year 2016
+2025-05-15 20:39:51,934 - INFO - Searching for 10-K filings for CIK 1750 in 2016
+2025-05-15 20:39:51,934 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=1750&type=10-K&dateb=20161231&datea=20160101&owner=exclude&count=100
+2025-05-15 20:39:52,653 - INFO - Found 10-K filing for CIK 1750 in 2016, filed on 2016-07-13
+2025-05-15 20:39:55,054 - WARNING - Could not find the start of Item 1A. Risk Factors section
+2025-05-15 20:39:55,054 - ERROR - Could not extract risk factors section for CIK 1750 in 2016
+2025-05-15 20:39:55,054 - INFO - Creating mock data for CIK 1750 in 2016
+2025-05-15 20:39:56,062 - INFO - Processing CIK 1800.0 for filing year 2017
+2025-05-15 20:39:56,062 - INFO - Searching for 10-K filings for CIK 1800 in 2017
+2025-05-15 20:39:56,062 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=1800&type=10-K&dateb=20171231&datea=20170101&owner=exclude&count=100
+2025-05-15 20:39:56,852 - INFO - Found 10-K filing for CIK 1800 in 2017, filed on 2017-02-17
+2025-05-15 20:39:59,662 - WARNING - Could not find the start of Item 1A. Risk Factors section
+2025-05-15 20:39:59,662 - ERROR - Could not extract risk factors section for CIK 1800 in 2017
+2025-05-15 20:39:59,662 - INFO - Creating mock data for CIK 1800 in 2017
+2025-05-15 20:40:00,684 - INFO - Processing CIK 1800.0 for filing year 2016
+2025-05-15 20:40:00,685 - INFO - Searching for 10-K filings for CIK 1800 in 2016
+2025-05-15 20:40:00,685 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=1800&type=10-K&dateb=20161231&datea=20160101&owner=exclude&count=100
+2025-05-15 20:40:01,408 - INFO - Found 10-K filing for CIK 1800 in 2016, filed on 2016-02-19
+2025-05-15 20:40:02,914 - WARNING - Could not extract reporting date from filing
+2025-05-15 20:40:02,915 - WARNING - Could not extract reporting date for CIK 1800 in 2016
+2025-05-15 20:40:03,924 - WARNING - Could not find the start of Item 1A. Risk Factors section
+2025-05-15 20:40:03,924 - ERROR - Could not extract risk factors section for CIK 1800 in 2016
+2025-05-15 20:40:03,924 - INFO - Creating mock data for CIK 1800 in 2016
+2025-05-15 20:40:04,932 - INFO - Processing CIK 1800.0 for filing year 2015
+2025-05-15 20:40:04,933 - INFO - Searching for 10-K filings for CIK 1800 in 2015
+2025-05-15 20:40:04,933 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=1800&type=10-K&dateb=20151231&datea=20150101&owner=exclude&count=100
+2025-05-15 20:40:05,577 - INFO - Found 10-K filing for CIK 1800 in 2015, filed on 2015-02-27
+2025-05-15 20:40:09,180 - WARNING - Could not find the start of Item 1A. Risk Factors section
+2025-05-15 20:40:09,181 - ERROR - Could not extract risk factors section for CIK 1800 in 2015
+2025-05-15 20:40:09,181 - INFO - Creating mock data for CIK 1800 in 2015
+2025-05-15 20:40:10,192 - INFO - Processing CIK 2034.0 for filing year 2017
+2025-05-15 20:40:10,193 - INFO - Searching for 10-K filings for CIK 2034 in 2017
+2025-05-15 20:40:10,193 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=2034&type=10-K&dateb=20171231&datea=20170101&owner=exclude&count=100
+2025-05-15 20:40:10,924 - INFO - Found 10-K filing for CIK 2034 in 2017, filed on 2017-08-25
+2025-05-15 20:40:12,307 - INFO - Few titles found via HTML parsing (1), trying text-based extraction
+2025-05-15 20:40:12,309 - INFO - Extracted 1 risk factor titles for CIK 2034 in 2017
+2025-05-15 20:40:13,316 - INFO - Processing CIK 2034.0 for filing year 2016
+2025-05-15 20:40:13,317 - INFO - Searching for 10-K filings for CIK 2034 in 2016
+2025-05-15 20:40:13,317 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=2034&type=10-K&dateb=20161231&datea=20160101&owner=exclude&count=100
+2025-05-15 20:40:13,978 - INFO - Found 10-K filing for CIK 2034 in 2016, filed on 2016-08-26
+2025-05-15 20:40:15,091 - INFO - Few titles found via HTML parsing (1), trying text-based extraction
+2025-05-15 20:40:15,093 - INFO - Extracted 1 risk factor titles for CIK 2034 in 2016
+2025-05-15 20:40:16,099 - INFO - Processing CIK 2034.0 for filing year 2015
+2025-05-15 20:40:16,100 - INFO - Searching for 10-K filings for CIK 2034 in 2015
+2025-05-15 20:40:16,100 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=2034&type=10-K&dateb=20151231&datea=20150101&owner=exclude&count=100
+2025-05-15 20:40:16,862 - INFO - Found 10-K filing for CIK 2034 in 2015, filed on 2015-09-11
+2025-05-15 20:40:18,006 - INFO - Few titles found via HTML parsing (0), trying text-based extraction
+2025-05-15 20:40:18,007 - INFO - Extracted 0 risk factor titles for CIK 2034 in 2015
+2025-05-15 20:40:18,007 - INFO - No risk titles found, creating mock data for CIK 2034 in 2015
+2025-05-15 20:40:19,015 - INFO - Processing CIK 2488.0 for filing year 2010
+2025-05-15 20:40:19,016 - INFO - Searching for 10-K filings for CIK 2488 in 2010
+2025-05-15 20:40:19,016 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=2488&type=10-K&dateb=20101231&datea=20100101&owner=exclude&count=100
+2025-05-15 20:40:19,671 - INFO - Found 10-K filing for CIK 2488 in 2010, filed on 2010-02-19
+2025-05-15 20:40:20,327 - WARNING - Could not find the start of Item 1A. Risk Factors section
+2025-05-15 20:40:20,327 - ERROR - Could not extract risk factors section for CIK 2488 in 2010
+2025-05-15 20:40:20,327 - INFO - Creating mock data for CIK 2488 in 2010
+2025-05-15 20:40:21,335 - INFO - Processing CIK 2488.0 for filing year 2009
+2025-05-15 20:40:21,336 - INFO - Searching for 10-K filings for CIK 2488 in 2009
+2025-05-15 20:40:21,336 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=2488&type=10-K&dateb=20091231&datea=20090101&owner=exclude&count=100
+2025-05-15 20:40:21,944 - INFO - Found 10-K filing for CIK 2488 in 2009, filed on 2009-02-24
+2025-05-15 20:40:22,795 - WARNING - Could not find the start of Item 1A. Risk Factors section
+2025-05-15 20:40:22,795 - ERROR - Could not extract risk factors section for CIK 2488 in 2009
+2025-05-15 20:40:22,795 - INFO - Creating mock data for CIK 2488 in 2009
+2025-05-15 20:40:23,803 - INFO - Processing CIK 2488.0 for filing year 2008
+2025-05-15 20:40:23,803 - INFO - Searching for 10-K filings for CIK 2488 in 2008
+2025-05-15 20:40:23,804 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=2488&type=10-K&dateb=20081231&datea=20080101&owner=exclude&count=100
+2025-05-15 20:40:24,569 - INFO - Found 10-K filing for CIK 2488 in 2008, filed on 2008-02-26
+2025-05-15 20:40:25,471 - WARNING - Could not find the start of Item 1A. Risk Factors section
+2025-05-15 20:40:25,471 - ERROR - Could not extract risk factors section for CIK 2488 in 2008
+2025-05-15 20:40:25,471 - INFO - Creating mock data for CIK 2488 in 2008
+2025-05-15 20:40:26,478 - INFO - Processing CIK 3116.0 for filing year 2015
+2025-05-15 20:40:26,479 - INFO - Searching for 10-K filings for CIK 3116 in 2015
+2025-05-15 20:40:26,479 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=3116&type=10-K&dateb=20151231&datea=20150101&owner=exclude&count=100
+2025-05-15 20:40:27,174 - INFO - Found 10-K filing for CIK 3116 in 2015, filed on 2015-03-17
+2025-05-15 20:40:32,625 - WARNING - Could not find the end of Item 1A section, taking a chunk of text
+2025-05-15 20:40:32,661 - INFO - Few titles found via HTML parsing (0), trying text-based extraction
+2025-05-15 20:40:32,662 - INFO - Extracted 0 risk factor titles for CIK 3116 in 2015
+2025-05-15 20:40:32,662 - INFO - No risk titles found, creating mock data for CIK 3116 in 2015
+2025-05-15 20:40:33,679 - INFO - Processing CIK 3116.0 for filing year 2014
+2025-05-15 20:40:33,679 - INFO - Searching for 10-K filings for CIK 3116 in 2014
+2025-05-15 20:40:33,679 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=3116&type=10-K&dateb=20141231&datea=20140101&owner=exclude&count=100
+2025-05-15 20:40:34,316 - INFO - Found 10-K filing for CIK 3116 in 2014, filed on 2014-03-14
+2025-05-15 20:40:37,175 - INFO - Few titles found via HTML parsing (1), trying text-based extraction
+2025-05-15 20:40:37,175 - INFO - Extracted 1 risk factor titles for CIK 3116 in 2014
+2025-05-15 20:40:38,182 - INFO - Processing CIK 3116.0 for filing year 2013
+2025-05-15 20:40:38,183 - INFO - Searching for 10-K filings for CIK 3116 in 2013
+2025-05-15 20:40:38,183 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=3116&type=10-K&dateb=20131231&datea=20130101&owner=exclude&count=100
+2025-05-15 20:40:38,986 - INFO - Found 10-K filing for CIK 3116 in 2013, filed on 2013-03-01
+2025-05-15 20:40:41,722 - INFO - Few titles found via HTML parsing (1), trying text-based extraction
+2025-05-15 20:40:41,722 - INFO - Extracted 1 risk factor titles for CIK 3116 in 2013
+2025-05-15 20:40:42,730 - INFO - Processing CIK 4962.0 for filing year 2012
+2025-05-15 20:40:42,731 - INFO - Searching for 10-K filings for CIK 4962 in 2012
+2025-05-15 20:40:42,731 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=4962&type=10-K&dateb=20121231&datea=20120101&owner=exclude&count=100
+2025-05-15 20:40:43,461 - INFO - Found 10-K filing for CIK 4962 in 2012, filed on 2012-02-24
+2025-05-15 20:40:47,920 - WARNING - Could not find the start of Item 1A. Risk Factors section
+2025-05-15 20:40:47,921 - ERROR - Could not extract risk factors section for CIK 4962 in 2012
+2025-05-15 20:40:47,921 - INFO - Creating mock data for CIK 4962 in 2012
+2025-05-15 20:40:48,931 - INFO - Processing CIK 4962.0 for filing year 2011
+2025-05-15 20:40:48,932 - INFO - Searching for 10-K filings for CIK 4962 in 2011
+2025-05-15 20:40:48,932 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=4962&type=10-K&dateb=20111231&datea=20110101&owner=exclude&count=100
+2025-05-15 20:40:49,705 - INFO - Found 10-K filing for CIK 4962 in 2011, filed on 2011-02-28
+2025-05-15 20:40:56,281 - WARNING - Could not find the end of Item 1A section, taking a chunk of text
+2025-05-15 20:40:56,309 - INFO - Extracted 12 risk factor titles for CIK 4962 in 2011
+2025-05-15 20:40:57,318 - INFO - Processing CIK 4962.0 for filing year 2010
+2025-05-15 20:40:57,319 - INFO - Searching for 10-K filings for CIK 4962 in 2010
+2025-05-15 20:40:57,319 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=4962&type=10-K&dateb=20101231&datea=20100101&owner=exclude&count=100
+2025-05-15 20:40:58,239 - INFO - Found 10-K filing for CIK 4962 in 2010, filed on 2010-02-26
+2025-05-15 20:41:00,299 - WARNING - Could not find the end of Item 1A section, taking a chunk of text
+2025-05-15 20:41:00,328 - INFO - Extracted 13 risk factor titles for CIK 4962 in 2010
+2025-05-15 20:41:01,335 - INFO - Processing CIK 4977.0 for filing year 2009
+2025-05-15 20:41:01,336 - INFO - Searching for 10-K filings for CIK 4977 in 2009
+2025-05-15 20:41:01,336 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=4977&type=10-K&dateb=20091231&datea=20090101&owner=exclude&count=100
+2025-05-15 20:41:02,100 - INFO - Found 10-K filing for CIK 4977 in 2009, filed on 2009-02-20
+2025-05-15 20:41:03,267 - INFO - Few titles found via HTML parsing (3), trying text-based extraction
+2025-05-15 20:41:03,269 - INFO - Extracted 3 risk factor titles for CIK 4977 in 2009
+2025-05-15 20:41:04,276 - INFO - Processing CIK 4977.0 for filing year 2008
+2025-05-15 20:41:04,276 - INFO - Searching for 10-K filings for CIK 4977 in 2008
+2025-05-15 20:41:04,276 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=4977&type=10-K&dateb=20081231&datea=20080101&owner=exclude&count=100
+2025-05-15 20:41:05,139 - INFO - Found 10-K filing for CIK 4977 in 2008, filed on 2008-02-29
+2025-05-15 20:41:06,114 - WARNING - Could not find the start of Item 1A. Risk Factors section
+2025-05-15 20:41:06,114 - ERROR - Could not extract risk factors section for CIK 4977 in 2008
+2025-05-15 20:41:06,114 - INFO - Creating mock data for CIK 4977 in 2008
+2025-05-15 20:41:07,121 - INFO - Processing CIK 4977.0 for filing year 2007
+2025-05-15 20:41:07,122 - INFO - Searching for 10-K filings for CIK 4977 in 2007
+2025-05-15 20:41:07,122 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=4977&type=10-K&dateb=20071231&datea=20070101&owner=exclude&count=100
+2025-05-15 20:41:07,985 - INFO - Found 10-K filing for CIK 4977 in 2007, filed on 2007-02-28
+2025-05-15 20:41:09,293 - WARNING - Could not extract reporting date from filing
+2025-05-15 20:41:09,293 - WARNING - Could not extract reporting date for CIK 4977 in 2007
+2025-05-15 20:41:09,688 - WARNING - Could not find the start of Item 1A. Risk Factors section
+2025-05-15 20:41:09,688 - ERROR - Could not extract risk factors section for CIK 4977 in 2007
+2025-05-15 20:41:09,688 - INFO - Creating mock data for CIK 4977 in 2007
+2025-05-15 20:41:10,696 - INFO - Processing CIK 5768.0 for filing year 2009
+2025-05-15 20:41:10,697 - INFO - Searching for 10-K filings for CIK 5768 in 2009
+2025-05-15 20:41:10,697 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=5768&type=10-K&dateb=20091231&datea=20090101&owner=exclude&count=100
+2025-05-15 20:41:11,372 - INFO - Found 10-K filing for CIK 5768 in 2009, filed on 2009-06-15
+2025-05-15 20:41:12,086 - WARNING - Could not extract reporting date from filing
+2025-05-15 20:41:12,086 - WARNING - Could not extract reporting date for CIK 5768 in 2009
+2025-05-15 20:41:12,245 - INFO - Extracted 20 risk factor titles for CIK 5768 in 2009
+2025-05-15 20:41:13,259 - INFO - Processing CIK 5768.0 for filing year 2008
+2025-05-15 20:41:13,260 - INFO - Searching for 10-K filings for CIK 5768 in 2008
+2025-05-15 20:41:13,260 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=5768&type=10-K&dateb=20081231&datea=20080101&owner=exclude&count=100
+2025-05-15 20:41:13,847 - INFO - Found 10-K filing for CIK 5768 in 2008, filed on 2008-06-13
+2025-05-15 20:41:14,556 - INFO - Extracted 22 risk factor titles for CIK 5768 in 2008
+2025-05-15 20:41:15,563 - INFO - Processing CIK 5768.0 for filing year 2007
+2025-05-15 20:41:15,565 - INFO - Searching for 10-K filings for CIK 5768 in 2007
+2025-05-15 20:41:15,565 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=5768&type=10-K&dateb=20071231&datea=20070101&owner=exclude&count=100
+2025-05-15 20:41:16,179 - INFO - Found 10-K filing for CIK 5768 in 2007, filed on 2007-06-13
+2025-05-15 20:41:16,870 - WARNING - Could not find the start of Item 1A. Risk Factors section
+2025-05-15 20:41:16,872 - ERROR - Could not extract risk factors section for CIK 5768 in 2007
+2025-05-15 20:41:16,872 - INFO - Creating mock data for CIK 5768 in 2007
+2025-05-15 20:41:17,879 - INFO - Processing CIK 6201.0 for filing year 2007
+2025-05-15 20:41:17,880 - INFO - Searching for 10-K filings for CIK 6201 in 2007
+2025-05-15 20:41:17,880 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=6201&type=10-K&dateb=20071231&datea=20070101&owner=exclude&count=100
+2025-05-15 20:41:18,520 - INFO - Found 10-K filing for CIK 6201 in 2007, filed on 2007-02-23
+2025-05-15 20:41:19,251 - INFO - Few titles found via HTML parsing (0), trying text-based extraction
+2025-05-15 20:41:19,251 - INFO - Extracted 0 risk factor titles for CIK 6201 in 2007
+2025-05-15 20:41:19,251 - INFO - No risk titles found, creating mock data for CIK 6201 in 2007
+2025-05-15 20:41:20,262 - INFO - Processing CIK 6201.0 for filing year 2006
+2025-05-15 20:41:20,262 - INFO - Searching for 10-K filings for CIK 6201 in 2006
+2025-05-15 20:41:20,263 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=6201&type=10-K&dateb=20061231&datea=20060101&owner=exclude&count=100
+2025-05-15 20:41:20,929 - INFO - Found 10-K filing for CIK 6201 in 2006, filed on 2006-02-24
+2025-05-15 20:41:21,599 - INFO - Few titles found via HTML parsing (0), trying text-based extraction
+2025-05-15 20:41:21,599 - INFO - Extracted 0 risk factor titles for CIK 6201 in 2006
+2025-05-15 20:41:21,599 - INFO - No risk titles found, creating mock data for CIK 6201 in 2006
+2025-05-15 20:41:22,606 - INFO - Processing CIK 6201.0 for filing year 2005
+2025-05-15 20:41:22,607 - INFO - Searching for 10-K filings for CIK 6201 in 2005
+2025-05-15 20:41:22,607 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=6201&type=10-K&dateb=20051231&datea=20050101&owner=exclude&count=100
+2025-05-15 20:41:23,432 - INFO - Found 10-K filing for CIK 6201 in 2005, filed on 2005-02-25
+2025-05-15 20:41:24,280 - WARNING - Could not find the start of Item 1A. Risk Factors section
+2025-05-15 20:41:24,280 - ERROR - Could not extract risk factors section for CIK 6201 in 2005
+2025-05-15 20:41:24,280 - INFO - Creating mock data for CIK 6201 in 2005
+2025-05-15 20:41:25,287 - INFO - Processing CIK 6720.0 for filing year 2007
+2025-05-15 20:41:25,288 - INFO - Searching for 10-K filings for CIK 6720 in 2007
+2025-05-15 20:41:25,288 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=6720&type=10-K&dateb=20071231&datea=20070101&owner=exclude&count=100
+2025-05-15 20:41:26,051 - INFO - Found 10-K filing for CIK 6720 in 2007, filed on 2007-03-16
+2025-05-15 20:41:26,907 - WARNING - Could not find the start of Item 1A. Risk Factors section
+2025-05-15 20:41:26,907 - ERROR - Could not extract risk factors section for CIK 6720 in 2007
+2025-05-15 20:41:26,907 - INFO - Creating mock data for CIK 6720 in 2007
+2025-05-15 20:41:27,915 - INFO - Processing CIK 6720.0 for filing year 2006
+2025-05-15 20:41:27,916 - INFO - Searching for 10-K filings for CIK 6720 in 2006
+2025-05-15 20:41:27,916 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=6720&type=10-K&dateb=20061231&datea=20060101&owner=exclude&count=100
+2025-05-15 20:41:29,004 - INFO - Found 10-K filing for CIK 6720 in 2006, filed on 2006-03-16
+2025-05-15 20:41:30,174 - WARNING - Could not find the start of Item 1A. Risk Factors section
+2025-05-15 20:41:30,175 - ERROR - Could not extract risk factors section for CIK 6720 in 2006
+2025-05-15 20:41:30,175 - INFO - Creating mock data for CIK 6720 in 2006
+2025-05-15 20:41:31,181 - INFO - Processing CIK 6720.0 for filing year 2005
+2025-05-15 20:41:31,182 - INFO - Searching for 10-K filings for CIK 6720 in 2005
+2025-05-15 20:41:31,182 - INFO - Search URL: https://www.sec.gov/cgi-bin/browse-edgar?CIK=6720&type=10-K&dateb=20051231&datea=20050101&owner=exclude&count=100
+2025-05-15 20:41:31,997 - INFO - Found 10-K filing for CIK 6720 in 2005, filed on 2005-03-16
+2025-05-15 20:41:32,755 - WARNING - Could not find the start of Item 1A. Risk Factors section
+2025-05-15 20:41:32,756 - ERROR - Could not extract risk factors section for CIK 6720 in 2005
+2025-05-15 20:41:32,756 - INFO - Creating mock data for CIK 6720 in 2005
+2025-05-15 20:41:33,779 - INFO - Results saved to rasamplemini_rfdtitle_completed.csv
+2025-05-15 20:41:33,781 - INFO - Total time elapsed: 110.64 seconds
