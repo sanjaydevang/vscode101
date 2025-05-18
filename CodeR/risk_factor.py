@@ -25,7 +25,7 @@ def get_filing_url(cik, filing_year):
 
 # Helper function to extract risk titles from Item 1A
 def extract_risk_titles(filing_doc_url):
-    headers = {'User-Agent': 'ResearchAssistant/1.0 (s.devang@gwmail.gwu.edu)'}
+    headers = {'User-Agent': 'ResearchAssistant/1.0 (your_email@example.com)'}
     response = requests.get(filing_doc_url, headers=headers)
     soup = BeautifulSoup(response.text, 'html.parser')
     text = soup.get_text()
@@ -91,5 +91,5 @@ for idx, row in df.iterrows():
 
 # Export result
 output_df = pd.DataFrame(results)
-output_df.to_csv('rasamplemini_rfdtitle_completednew.csv', index=False)
+output_df.to_csv('rasamplemini_rfdtitle_completed.csv', index=False)
 print("\n✅ Extraction complete. Results saved to rasamplemini_rfdtitle_completed.csv")

@@ -39,16 +39,25 @@ def get_10k_url_and_filing_date(cik, filing_year):
                         if detail_response.status_code == 200:
                             detail_soup = BeautifulSoup(detail_response.content, 'lxml')
                             for table_tag in detail_soup.find_all('table'):
-                                for row_tag in table_tag.find_all('tr'):
-                                    if 'Complete submission text file' in row_tag.text:
-                                        for link_tag in row_tag.find_all('a', href=True):
-                                            filing_url = "https://www.sec.gov" + link_tag['href']
-                                            return filing_url, filing_date
-        print(f"10-K URL not found for CIK: {cik}, Year: {filing_year}")
-        return None, None
+                                print(table_tag)
+                                tds = [row.findAll('td') for row in table_tag.findAll('tr')]
+                                results = { td[0].string: td[1].string for td in tds }
+                                print(results)
+
+
+                                # for row_tag in table_tag.find_all('tr'):
+                                #     print(row_tag)
+                                #     if 'Complete submission text file' in row_tag.text:
+                                #         print(row_tag)
+                                #         for link_tag in row_tag.find_all('a', href=True):
+                                #             filing_url = "https://www.sec.gov" + link_tag['href']
+                                #             return filing_url, filing_date
+        # print(f"10-K URL not found for CIK: {cik}, Year: {filing_year}")
+        # return None, None
     except Exception as e:
-        print(f"Error fetching 10-K URL for CIK {cik}: {e}")
-        return None, None
+        # print(f"Error fetching 10-K URL for CIK {cik}: {e}")
+        print(e)
+
 
 def extract_reporting_date(text, filing_year):
     match = re.search(r'for the fiscal year ended ([A-Za-z]+ \d{1,2}, \d{4})', text, re.IGNORECASE)
@@ -59,13 +68,28 @@ def extract_reporting_date(text, filing_year):
             pass
     return f'{filing_year}-12-31'
 
+def find_item_1a_element(soup):
+    # Try direct string search first
+    item_1a = soup.find(
+        string=re.compile(
+            r'item\\s*1a\\s*[:\\.\\-–—]?\\s*risk\\s*factors',
+            re.IGNORECASE
+        )
+    )
+    if item_1a:
+        return item_1a.find_parent()
+    # Fallback: search all text nodes
+    for tag in soup.find_all(text=True):
+        if re.search(r'item\\s*1a\\s*[:\\.\\-–—]?\\s*risk\\s*factors', tag, re.IGNORECASE):
+            return BeautifulSoup(str(tag.parent), 'lxml').find()
+    return None
+
 def extract_risk_factor_titles_from_html(soup, cik=None, filing_year=None):
-    item_1a = soup.find(string=re.compile(r'Item\\s*1A\\.?\\s*Risk\\s*Factors', re.IGNORECASE))
-    if not item_1a:
+    start_elem = find_item_1a_element(soup)
+    if not start_elem:
         print(f"Item 1A not found in HTML for CIK {cik}, year {filing_year}!")
         return []
     print(f"Item 1A found for CIK {cik}, year {filing_year}")
-    start_elem = item_1a.find_parent()
     section_elems = []
     current = start_elem
     while current:
@@ -93,7 +117,7 @@ def extract_risk_factor_titles_from_html(soup, cik=None, filing_year=None):
     return list(dict.fromkeys(titles))
 
 def main():
-    input_csv_path = "rasamplemini_rfdtitle.csv"
+    input_csv_path = "rasamplemini_rfdtitle-new.csv"
     output_csv_path = "rasamplemini_rfdtitle_output.csv"
     output_rows = []
     df = pd.read_csv(input_csv_path, dtype={'cik': str})
@@ -112,18 +136,19 @@ def main():
         text = soup.get_text()
         reporting_date = extract_reporting_date(text, filing_year)
         risk_factor_titles = extract_risk_factor_titles_from_html(soup, cik, filing_year)
-        for title in risk_factor_titles:
-            output_rows.append({
-                'cik': cik,
-                'filingyear': filing_year,
-                'filingdate': filing_date,
-                'reportingdate': reporting_date,
-                'rfdtitle': title
-            })
-        time.sleep(1)
-    output_df = pd.DataFrame(output_rows)
-    output_df.to_csv(output_csv_path, index=False)
-    print(f"Extraction completed. Output saved to {output_csv_path}")
+        # for title in risk_factor_titles:
+        #     output_rows.append({
+        #         'cik': cik,
+        #         'filingyear': filing_year,
+        #         'filingdate': filing_date,
+        #         'reportingdate': reporting_date,
+        #         'rfdtitle': title
+        #     })
+        # time.sleep(1)
+        # print(soup.prettify()[:1000])
+    # output_df = pd.DataFrame(output_rows)
+    # output_df.to_csv(output_csv_path, index=False)
+    # print(f"Extraction completed. Output saved to {output_csv_path}")
 
 if __name__ == '__main__':
     main() 
