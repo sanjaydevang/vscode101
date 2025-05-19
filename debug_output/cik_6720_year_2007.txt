@@ -1,0 +1,74 @@
+Debug information for CIK 6720, Year 2007
+
+Filing URL: https://www.sec.gov/Archives/edgar/data/6720/000119312507056201/d10k.htm
+Filing Date: 03/16/2007
+Reporting Date: 12/31/2006
+
+First 1000 characters of text:
+
+10-K
+1
+d10k.htm
+FORM 10-K
+
+Form 10-K
+Table of Contents
+ SECURITIES AND EXCHANGE COMMISSION  Washington, D.C. 20549  Form 10-K
+ (Mark One) 
+
+
+x
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the fiscal year ended December 31, 2006  Or   
+
+
+¨
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from
+             to             .  Commission File No. 1-4290  K2 INC.  (Exact name of registrant as specified in its charter)   
+
+
+
+
+
+
+Delaware
+ 
+95-2077125
+
+(State of Incorporation)
+ 
+(I.R.S. Employer Identification No.)
+
+
+
+
+ 5818 El Camino Real Carlsbad, California
+ 
+92008
+
+(Address of principal executive offices)
+ 
+(Zip Code)
+ Registrants telephone number, including area code (760) 494-1000  Securities registered pursuant to Section 12(b) of the Act:   
+
+
+
+
+
+
+ Title of each class
+ 
+ Name of each exchange on which
+registered
+
+Common Stock, par value $1
+ 
+New York Stock Exchange
+
+Series A P
+
+Risk Factor Section Found
+
+First 1000 characters of risk section:
+
+
+Found 0 risk factor titles:

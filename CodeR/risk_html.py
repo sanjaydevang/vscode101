@@ -158,7 +158,7 @@ def find_risk_factor_text(soup):
 
 
 def main():
-    input_csv_path = "rasamplemini_rfdtitle-new.csv"
+    input_csv_path = ".csv"
     output_csv_path = "rasamplemini_rfdtitle_output.csv"
     output_rows = []
     df = pd.read_csv(input_csv_path, dtype={'cik': str})
@@ -166,10 +166,11 @@ def main():
     for index, row in df.iterrows():
         cik = row['cik'].zfill(10)
         filing_year = int(row['filingyear'])
-        tenk_url, filing_date = get_10k_url_and_filing_date(cik, filing_year)
-        if not tenk_url:
+        result = get_10k_url_and_filing_date(cik, filing_year)
+        if not result or result[0] is None:
             print(f"Skipping CIK: {cik}, Year: {filing_year} - URL not found")
             continue
+        tenk_url, filing_date = result
         time.sleep(0.1)
         response = requests.get(tenk_url, headers=HEADERS)
         print(tenk_url)

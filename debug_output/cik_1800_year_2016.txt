@@ -1,0 +1,192 @@
+Debug information for CIK 1800, Year 2016
+
+Filing URL: https://www.sec.gov/Archives/edgar/data/1800/000104746916010246/a2227279z10-k.htm
+Filing Date: 02/19/2016
+Reporting Date: 12/31/2015
+
+First 1000 characters of text:
+
+10-K
+1
+a2227279z10-k.htm
+10-K
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+   
+ 
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D. C. 20549
+
+
+
+
+
+
+FORM 10-K  
+
+
+
+
+
+
+
+
+
+
+
+(MARK ONE)
+ 
+ 
+
+
+ý
+ 
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+
+
+ OR
+
+
+o
+ 
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For the fiscal year ended December 31, 2015
+ 
+Commission file number 1-2189
+
+
+
+
+Abbott Laboratories  
+
+
+
+
+
+
+
+
+
+
+
+An Illinois Corporation
+ 
+ 36-0698440
+
+
+100 Abbott Park Road
+Abbott Park, Illinois 60064-6400
+ 
+ (I.R.S. employer identification number) (224) 667-6100 (telephone number)
+
+
+
+
+Securities Registered Pursuant to Section 12(b) of the Act:  
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Title of Each Class
+ 
+Name of Each Exchange on Which Registered
+
+
+ 
+
+
+Common Shares, Without Par Value
+  
+ 
+ New York Stock Exchange
+Chicago Stock Exchange
+
+
+ 
+
+
+
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in 
+
+Risk Factor Section Found
+
+First 1000 characters of risk section:
+<html><body><br/>
+<p style="font-family:times;text-align:justify"><font size="2">        In addition to the other information in this report, the following risk factors should be considered before deciding to invest in any
+of Abbott's securities. Additional risks and uncertainties not presently known to Abbott, or risks Abbott currently considers immaterial, could also affect Abbott's actual results. Abbott's business,
+financial condition, results of operations, or prospects could be materially adversely affected by any of these risks. </font></p>
+<p style="font-family:times;text-align:justify;margin-left:0pt;text-indent:-0pt;"><font size="2"><b>
+<!-- COMMAND=STYLE_ADDED,"margin-left:0pt;text-indent:-0pt;" -->
+
+
+Abbott may acquire other businesses, license rights to technologies or products, form alliances, or
+dispose of or spin-off businesses, which could cause it to incur significant expenses and could negatively affect profitability.  </b></font></p>
+<p style="font-family:times;text
+
+Found 20 risk factor titles:
+1. Abbott may acquire other businesses, license rights to technologies or products, form alliances, or dispose of or spin-off businesses, which could cause it to incur significant expenses and could negatively affect profitability.
+2. Abbott is subject to cost containment efforts that could cause a reduction in future revenues and operating income.
+3. Abbott is subject to numerous governmental regulations and it can be costly to comply with these regulations and to develop compliant products and processes.
+4. Laws and regulations affecting government benefit programs could impose new obligations on Abbott, require Abbott to change its business practices, and restrict its operations in the future.
+5. Changes in the health care regulatory environment may adversely affect Abbott's business.
+6. The expiration or loss of patent protection and licenses may affect Abbott's future revenues and operating income.
+7. Competitors' intellectual property may prevent Abbott from selling its products or have a material adverse effect on Abbott's future profitability and financial condition.
+8. Abbott's research and development efforts may not succeed in developing commercially successful products and technologies, which may cause Abbott's revenue and profitability to decline.
+9. New products and technological advances by Abbott's competitors may negatively affect Abbott's results of operations.
+10. The manufacture of many of Abbott's products is a highly exacting and complex process, and if Abbott or one of its suppliers encounters problems manufacturing products, Abbott's business could suffer.
+11. Significant safety concerns could arise for Abbott's products, which could have a material adverse effect on Abbott's revenues and financial condition.
+12. Deterioration in the economic position and credit quality of certain countries may negatively affect Abbott's results of operations.
+13. Abbott depends on sophisticated information technology systems and a cyber attack or other breach of these systems could have a material adverse effect on Abbott's results of operations.
+14. Abbott may incur operational difficulties or be exposed to claims and liabilities as a result of the separation.
+15. There could be significant liability if the distribution of AbbVie common stock to Abbott shareholders is determined to be a taxable transaction.
+16. Abbott holds a significant investment in Mylan N.V. and is subject to market risk.
+17. Fluctuation in foreign currency exchange rates may adversely affect our financial statements and Abbott's ability to realize projected sales and earnings.
+18. The international nature of Abbott's business subjects it to additional business risks that may cause its revenue and profitability to decline.
+19. Other factors can have a material adverse effect on Abbott's future profitability and financial condition.
+20. CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS

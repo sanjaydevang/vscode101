@@ -1,0 +1,22 @@
+Debug information for CIK 1326801, Year 2017
+
+Filing URL: https://www.sec.gov/Archives/edgar/data/1326801/000132680117000007/fb-12312016x10k.htm
+Filing Date: 02/03/2017
+Reporting Date: 12/31/2016
+
+First 1000 characters of text:
+
+10-K
+1
+fb-12312016x10k.htm
+10-K
+
+
+
+
+Document
+   UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 __________________________FORM 10-K__________________________(Mark One) xANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the fiscal year ended December 31, 2016 or ¨TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from            to             Commission File Number: 001-35551 __________________________FACEBOOK, INC. (Exact name of registrant as specified in its charter) __________________________ Delaware20-1665019(State or other jurisdiction of incorporation or organization)(I.R.S. Employer Identification Number)1601 Willow Road, Menlo Park, California 94025 (Address of principal executive offices and Zip Code) (650) 543-4800 (Registrant's telephone number, including area code) __________________________Securities registered pursuant to Section 12(b) of the A
+
+Risk Factor Section NOT Found
+
+Found 0 risk factor titles:

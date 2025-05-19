@@ -1,0 +1,444 @@
+Debug information for CIK 4962, Year 2010
+
+Filing URL: https://www.sec.gov/Archives/edgar/data/4962/000119312510041232/d10k.htm
+Filing Date: 02/26/2010
+Reporting Date: 12/31/2008
+
+First 1000 characters of text:
+
+10-K
+1
+d10k.htm
+FORM 10-K
+
+Form 10-K
+Table of Contents
+      UNITED STATES  SECURITIES AND EXCHANGE COMMISSION  Washington, D.C. 20549      FORM 10-K       
+
+
+x
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  For the fiscal year ended December 31, 2009  OR
+  
+
+
+¨
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  For the transition period from                      to
+                      Commission File No. 1-7657      American Express
+Company  (Exact name of registrant as specified in its charter)   
+
+
+
+
+
+
+New York
+ 
+13-4922250
+
+(State or other jurisdiction ofincorporation or organization)
+ 
+ (I.R.S. Employer Identification No.)  
+
+
+
+
+
+
+ World Financial Center 200 Vesey Street New York, New York
+ 
+10285
+
+(Address of principal executive offices)
+ 
+(Zip Code) Registrants telephone number, including area code: (212) 640-2000  Securities registered pursuant
+to Section 12(b) of the Act:     
+ 
+
+
+
+
+
+
+ Title of e
+
+Risk Factor Section Found
+
+First 1000 characters of risk section:
+<html><body><p> below. You are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date on which they are made. We undertake no obligation to
+update publicly or revise any forward-looking statements.  </p><p style="margin-top:0px;margin-bottom:0px"><font size="1"> </font></p>
+<p align="center" style="margin-top:0px;margin-bottom:0px"><font size="2" style="font-family:Times New Roman">1 </font></p>
+<p style="page-break-before:always">
+</p><hr align="CENTER" size="3" style="COLOR:#999999" width="100%"/>
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+<table border="0" cellpadding="0" cellspacing="0" style="BORDER-COLLAPSE:COLLAPSE" width="100%">
+<tr>
+<td width="5%"><font size="1"> </font></td>
+<td align="left" valign="top" width="2%"><font size="2" style="font-family:Times New Roman"></font></td>
+<td valign="top" width="1%"><font size="1"> </font></td>
+<td align="left" valign="top"> <p align="left"><font size="2" style="font-
+
+Found 364 risk factor titles:
+1. Products and Services
+2. Organizational Changes
+3. Spend-Centric Model is Competitive Advantage
+4. The American Express Brand
+5. GLOBAL NETWORK & MERCHANT SERVICES
+6. Global Network Services
+7. GNS Arrangements
+8. Independent Operator Arrangements
+9. Network Card License Arrangements
+10. Joint Venture Arrangements
+11. GNS Business Highlights
+12. Global Merchant Services
+13. GLOBAL NETWORK & MERCHANT SERVICESCompetition
+14. GLOBAL NETWORK & MERCHANT SERVICESRegulation
+15. U.S. CARD SERVICES
+16. Consumer and Small Business Services
+17. Centurion Bank and AEBFSB as Issuers of Certain Cards
+18. Centurion Bank
+19. Type of Bank
+20. Regulatory Supervision
+21. Types of cards issued
+22. Marketing methods
+23. Risk-based capital adequacy requirements*, based on Tier One risk-based capital, total risk-based capital and Tier One core capital ratios at December 31, 2009
+24. Charge Cards
+25. Revolving Credit Cards
+26. Co-brand Cards
+27. Co-brand Partnerships with Financial Services Institutions
+28. Card Pricing and Account Management
+29. Membership Rewards®Program
+30. Cardmember Special Services and Programs
+31. Card-Issuing BusinessCompetition
+32. Financing Activities
+33. Deposit Programs
+34. Card-Issuing BusinessRegulation
+35. American Express Consumer Travel NetworkUSA
+36. Consumer Travel NetworkUSACompetition
+37. INTERNATIONAL CARD SERVICES
+38. International Proprietary Consumer CardCompetition
+39. International Proprietary Consumer CardRegulation
+40. GLOBAL COMMERCIAL SERVICES
+41. Global Commercial Card
+42. Global Commercial CardCompetition
+43. Global Commercial CardRegulation
+44. Global Travel Services
+45. Global Travel ServicesCompetition
+46. CORPORATE & OTHER
+47. Global Prepaid
+48. Global PrepaidCompetition
+49. Global PrepaidRegulation
+50. American Express Publishing
+51. Global Services Group
+52. World Service
+53. Global Business Services
+54. Corporate Development
+55. Service and Technology Infrastructure
+56. Enterprise Growth
+57. Fee Services
+58. Supervision and RegulationGeneral
+59. Banking Regulation
+60. Financial Holding Company Status and Activities
+61. Activities and Acquisitions
+62. Source of Strength
+63. Capital Adequacy
+64. Proposed Capital and Liquidity Requirements
+65. Prompt Corrective Action
+66. Transactions between Centurion Bank or AEBFSB and Their Respective Affiliates
+67. FDIC Insurance Assessments
+68. FDIC Powers upon Insolvency of Insured Depository Institutions
+69. Cross-Guarantee Provisions
+70. Community Reinvestment Act
+71. Privacy and Fair Credit Reporting
+72. Anti-Money Laundering Compliance
+73. Compensation Practices
+74. Foreign Corrupt Practices Act
+75. FOREIGN OPERATIONS
+76. SALE OF AMERICAN EXPRESS BANK LTD. / DISCONTINUED OPERATIONS
+77. SEGMENT INFORMATION AND CLASSES OF SIMILAR SERVICES
+78. EXECUTIVE OFFICERS OF THE COMPANY
+79. GUIDE 3  STATISTICAL DISCLOSURE BY BANK HOLDING COMPANIES
+80. DISTRIBUTION OF ASSETS, LIABILITIES, AND SHAREHOLDERS EQUITY; INTEREST RATES AND INTEREST DIFFERENTIAL
+81. Years Ended December 31,
+82. (Millions, except percentages)
+83. AverageBalance (a)
+84. InterestIncome
+85. Interest-earning assets
+86. Total interest-earning assets (i)
+87. Non-interest-earning assets
+88. Total non-interest-earning assets
+89. Assets of discontinued operations
+90. Total assets
+91. Percentage of total average assets attributable to non-U.S. activities
+92. InterestExpense
+93. Interest-bearing liabilities
+94. Total interest-bearing liabilities
+95. Non-interest-bearing liabilities
+96. Total non-interest-bearing liabilities
+97. Liabilities of discontinued operations
+98. Total liabilities
+99. Total liabilities and shareholders equity
+100. Percentage of total average liabilities attributable to non-U.S. activities
+101. Interest rate spread
+102. Net interest income and net average yield on interest-earning assets (d)
+103. CHANGES IN NET INTEREST INCOME -VOLUME AND RATE ANALYSIS (a)
+104. versus 2008
+105. versus 2007
+106. Increase (Decrease)due to change in:
+107. AverageVolume
+108. AverageRate
+109. Change in interest income
+110. Change in interest expense
+111. Change in net interest income
+112. INVESTMENT SECURITIES PORTFOLIO
+113. December 31,
+114. Total available-for-sale securities
+115. year or less
+116. Due after 1
+117. Due after 5
+118. Total fair value (c)
+119. Weighted average yield (d)
+120. LOANS AND CARDMEMBER RECEIVABLES PORTFOLIOS
+121. Non-U.S. loans
+122. Total loans
+123. Cardmember receivables
+124. U.S. cardmember receivables
+125. Non-U.S. cardmember receivables
+126. Total cardmember receivables
+127. MATURITIES AND SENSITIVITIES TO CHANGES IN INTEREST RATES
+128. year (a) (b)
+129. years (b) (c)
+130. years (c)
+131. CARDMEMBER LOAN AND CARDMEMBER RECEIVABLE CONCENTRATIONS
+132. Total on-balance sheet
+133. Unused lines of credit-individuals (c)
+134. RISK ELEMENTS
+135. Non-accrual loans (a)
+136. Total non-accrual loans
+137. Loans contractually 90 days past-due and still accruing interest
+138. Total loans contractually 90 days past-due and still accruing interest
+139. Restructured loans (c) (d)
+140. Total restructured loans
+141. Total non-performing loans
+142. Restructured cardmember receivables (c) (d)
+143. Total restructured cardmember receivables
+144. IMPACT OF NON-PERFORMING LOANS ON INTEREST INCOME
+145. Year Ended December 31,
+146. Total interest revenue foregone
+147. POTENTIAL PROBLEM RECEIVABLES
+148. CROSS-BORDER OUTSTANDINGS
+149. Years EndedDecember 31,
+150. Governmentsand officialinstitutions
+151. Banks andotherfinancial
+152. institutions
+153. Netlocalcountryclaims
+154. cross-border
+155. outstandings
+156. Cross-bordercommitments (b)
+157. Totalexposure
+158. SUMMARY OF LOAN LOSS EXPERIENCE
+159. ANALYSIS OF THE ALLOWANCE FOR LOAN LOSSES
+160. Cardmember loans
+161. Allowance for loan losses at beginning of year
+162. Total allowance for losses
+163. Cardmember lending provisions (a)
+164. Total cardmember lending provisions
+165. Total write-offs
+166. Total recoveries
+167. Net write-offs (b) (c)
+168. Total other
+169. Allowance for loan losses at end of year
+170. Net write-offs / average cardmember loansoutstanding (b) (c) (e)
+171. Other loans
+172. Provisions for other loan losses (c)
+173. Total provisions for other loan losses
+174. Net write-offs
+175. Net write-offs/average other loans outstanding (e)
+176. Allowance for losses at beginning of year
+177. U.S. receivables
+178. Total U.S. receivables
+179. Non-U.S. receivables
+180. Total non-U.S. receivables
+181. Provisions for losses (a)
+182. Total U.S. provisions
+183. Total non-U.S. provisions
+184. Total provisions for losses
+185. Total U.S. write-offs
+186. Total non-U.S. write-offs
+187. Total U.S. recoveries
+188. Total non-U.S. recoveries
+189. Net write-offs (b)
+190. Total U.S. other
+191. Total non-U.S. other
+192. Allowance for losses at end of year
+193. Net write-offs / average cardmember receivables outstanding (d)
+194. Net loss ratio as a percentage of charge volume (e)
+195. ALLOCATION OF ALLOWANCE FOR LOSSES
+196. Allowance for losses atend of year applicable to
+197. Percent ofloans/receivablesin eachcategoryto totalloans/receivables
+198. CUSTOMER DEPOSITS
+199. AverageBalance(a)
+200. U.S. customer deposits
+201. Total U.S. customer deposits
+202. Non-U.S. customer deposits
+203. Total Non-U.S. customer deposits
+204. Total customer deposits
+205. TIME CERTIFICATES OF DEPOSIT OF $100,000 OR MORE
+206. By remaining maturity as of December 31, 2009
+207. RETURN ON EQUITY AND ASSETS
+208. (Millions, except percentages and per share amounts)
+209. SHORT-TERM BORROWINGS
+210. Commercial paper
+211. Federal funds purchased and securities sold under repurchase agreements (b)
+212. Other short-term borrowings
+213. RISK FACTORS
+214. Current Economic and Political Risks
+215. Difficult conditions in the global capital markets and economy generally, as well as political conditions in the United States and elsewhere, may materially adversely affect our business and results of operations.
+216. Adverse capital and credit market conditions may significantly affect our ability to meet liquidity needs, access to capital and cost of capital.
+217. We can be adversely affected by the impairment of other financial institutions.
+218. Any reduction in the Companys and its subsidiaries credit ratings could increase the cost of our funding from, and restrict our access to, the capital markets and have a material adverse effect on our results of operations and financial condition.
+219. Adverse currency fluctuations and foreign exchange controls could decrease revenue we receive from our international operations.
+220. Legal and Regulatory Risks
+221. The Credit Card Accountability Responsibility and Disclosure Act of 2009 will significantly impact our business practices and could have a material adverse effect on our results of operations.
+222. Proposed legislative and regulatory reforms could, if enacted or adopted, result in our business becoming subject to significant and extensive additional regulations, which could adversely affect our results of operations and financial condition.
+223. Potential actions by the FDIC and the rating agencies could impact the Companys ABS program.
+224. Our financial condition and results of operations could be adversely affected by increases in FDIC deposit insurance assessments.
+225. Our business, financial condition and results of operations could be adversely affected by new regulation and supervision to which we are subject as a result of becoming a bank holding company.
+226. We are subject to restrictions that limit our ability to pay dividends and repurchase our capital stock.
+227. Banks, card issuers and card network operators generally are the subject of increasing global regulatory focus, which may impose costly new compliance burdens on our Company and lead to decreased transaction volumes and revenues through our network.
+228. If we are not able to protect our intellectual property, and invest successfully in, and compete at the leading edge of, technological developments across all our businesses, our revenue and profitability could be negatively affected.
+229. Regulation in the areas of privacy and data security could increase our costs and decrease the number of charge and credit cards issued.
+230. Our success is dependent, in part, upon our executive officers and other key personnel, and the loss of key personnel could materially adversely affect our business.
+231. Litigation and regulatory actions could subject us to significant fines, penalties and/or requirements resulting in increased expenses.
+232. Business Risks
+233. Our operating results may suffer because of substantial and increasingly intense competition worldwide in the payments industry.
+234. We face increasingly intense competitive pressure that may impact the prices we charge merchants who accept our Cards for payment for goods and services.
+235. We may not be successful in our efforts to promote Card usage through our marketing, promotion and rewards programs or to effectively control the costs of such programs, both of which may impact our profitability.
+236. Our brand and reputation are key assets of our Company, and our business may be affected by how we are perceived in the marketplace.
+237. An increase in account data breaches and fraudulent activity using our Cards could lead to reputational damage to our brand and could reduce the use and acceptance of our charge and credit Cards.
+238. We have agreements with business partners in a variety of industries, including the airline industry, that represent a significant portion of our business. We are exposed to risks associated with these industries, including bankruptcies, restructurings, consolidations and alliances of our partners, and the possible obligation to make payments to our partners.
+239. Our reengineering and other cost control initiatives may not prove successful, and we may not realize all or a significant portion of the benefits we intended.
+240. Our risk management policies and procedures may not be effective.
+241. An inability to accept or maintain deposits due to market demand or regulatory constraints could materially adversely affect our liquidity position and our ability to fund our business.
+242. If our global network systems are disrupted or we are unable to process transactions efficiently or at all, our revenue and profitability would be materially reduced.
+243. We rely on third-party providers of various computer systems and other services integral to the operations of our businesses. These third parties may act in ways that could harm our business.
+244. Special Note About Forward-Looking Statements
+245. UNRESOLVED STAFF COMMENTS
+246. LEGAL PROCEEDINGS
+247. Corporate Matters
+248. In re American Express Company Securities Litigation
+249. Amick v. American Express Travel Related Services Co.
+250. City of Tallahassee Retirement System v. Akerson et al.
+251. Obester v. American Express Company, et. al.
+252. Tang v. American Express Company, et. al.
+253. Miner v. American Express Company et. al.
+254. DiLorenzo v. American Express Company et. al.
+255. In Re American Express ERISA Litigation
+256. Brozovich v. American Express Co., Kenneth I. Chenault and Daniel T. Henry
+257. Baydale v. American Express Co., Kenneth I. Chenault and Daniel Henry
+258. U.S. Card Services and Global Merchant Services Matters
+259. In re American Express Merchants Litigation
+260. The Marcus Corporation v. American Express Company et al.
+261. In Re: American Express Merchants Litigation
+262. Greenporter LLC and Bar Hama LLC, on behalf of themselves and all others similarly situated v. American Express Company and American Express Travel Related Services Company, Inc.
+263. In Re: American Express Anti-Steering Rules Antitrust Litigation
+264. The Wild Grape v. American Express Company, et al.
+265. Mesi v. American Express Centurion Bank
+266. Lopez, et al. v. American Express Bank, FSB and American Express Centurion Bank
+267. Hoffman, et al. v. American Express Travel Related Services Company, Inc.
+268. Environment Law Enforcement Systems v. American Express et al.
+269. Kass v. American Express Card Services, Inc., American Express Company and American Express Travel Related Services
+270. Ross, et al. v. American Express Company, American Express Travel Related Services and American Express Centurion Bank
+271. In Re Currency Conversion Antitrust Litigation.
+272. Homa v. American Express Company et al.
+273. Pagsolingan v. American Express Company
+274. Kaufman v. American Express Travel Related Services
+275. Goodman v. American Express Travel Related Services
+276. Jarratt v. American Express Company
+277. International Matters
+278. Marcotte v. Bank of Montreal et al.
+279. Sylvan Adams v. Amex Bank of Canada
+280. Option Consommateurs and Benoit Fortin v. Amex Bank of Canada et al.
+281. Option Consommateurs and Joel-Christian St-Pierre v. Bank of Montreal et al.
+282. Other Matters
+283. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+284. MARKET FOR REGISTRANTS COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+285. Total Number
+286. Average Price
+287. Paid Per Share
+288. Total Number of
+289. Purchased as
+290. Part of Publicly
+291. Programs (3)
+292. Number of Shares
+293. that May Yet Be
+294. Purchased Under
+295. the Plans or
+296. SELECTED FINANCIAL DATA
+297. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+298. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+299. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+300. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+301. CONTROLS AND PROCEDURES
+302. OTHER INFORMATION
+303. ITEMS 10, 11, 12 and 13.
+304. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE; EXECUTIVE COMPENSATION; SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS; CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+305. PRINCIPAL ACCOUNTING FEES AND SERVICES
+306. EXHIBITS, FINANCIAL STATEMENT SCHEDULES
+307. Financial Statements
+308. Financial Statement Schedules
+309. Daniel T. Henry
+310. Executive Vice President and
+311. Chief Financial Officer
+312. Kenneth I. Chenault
+313. Chairman, Chief Executive Officer and
+314. Jan Leschly
+315. Richard C. Levin
+316. Joan C. Amble
+317. Comptroller
+318. Richard A. McGinn
+319. Daniel F. Akerson
+320. Edward D. Miller
+321. Charlene Barshefsky
+322. Steven S Reinemund
+323. Ursula M. Burns
+324. Robert D. Walter
+325. Peter Chernin
+326. Ronald A. Williams
+327. AMERICAN EXPRESS COMPANY
+328. INDEX TO FINANCIAL STATEMENTS
+329. (Items 15(a)(1) and 15(a)(2) of Form 10-K)
+330. Annual Reportto Shareholders(Page)
+331. Exhibit 23.1
+332. CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+333. EXHIBIT INDEX
+334. UNITED STATES
+335. SECURITIES AND EXCHANGE COMMISSION
+336. WASHINGTON, D.C. 20549
+337. ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+338. THE SECURITIES EXCHANGE ACT OF 1934
+339. For the fiscal year ended December 31, 2009
+340. Commission File No. 1-7657
+341. American Express Company
+342. (Exact name of Company as specified in charter)
+343. The interchange fee, which is the collectively set fee paid by the bankcard merchant acquirer to the card issuing bank in four party payment networks, like Visa and MasterCard, is generally the largest component of the merchant service charge payable by merchants for bankcard debit and credit card acceptance in these systems.By contrast, the American Express network does not have collectively set interchange fees. Although the regulators focus has primarily been on Visa and MasterCard as the dominant card networks and their operations on a multilateral basis, antitrust actions and government regulation of the bankcard associations pricing could ultimately affect all networks. Lower interchange and/or merchant discount revenue may lead card issuers to look for other sources of revenue from consumers such as higher annual card fees or interest charges, as well as to reduce costs by scaling back or eliminating rewards programs.
+344. Year Ended December 31,(Millions)
+345. Years Ended December 31,(Millions, except percentages)
+346. Although we have devoted significant resources to develop our risk management policies and procedures and expect to continue to do so in the future, our hedging strategies and other risk management techniques may not be fully effective. SeeFinancial ReviewRisk Management on pages47-49 of our 2009 Annual Report to Shareholders for a discussion of the policies and procedures we use to identify, monitor and manage the risks we assume in conducting our businesses. Management of credit, market and operational risk requires, among other things, policies and procedures to record properly and verify a large number of transactions and events, and these policies and procedures may not be fully effective.
+347. Table of Contents
+348. return on average equity of 14.6%, compared with 22.3%.
+349. fee services, including market and trend analyses along with related consulting services and customer loyalty and rewards programs.
+350. Weis Markets Inc.
+351. Professional Veterinary Products, one of the nations largest animal health products distributors.
+352. the cost of Card acceptance relative to the value provided.
+353. providing exceptional customer service.
+354. During the year we also expanded our list of redemption partners and announced a number of innovations to meet customer demand.
+355. resources to help grow and manage a business through the community-driven website, OPEN Forum®.
+356. the quality of customer service.
+357. federal and state laws and regulations that generally prohibit engaging in unfair and deceptive business practices.
+358. Primarily U.S.
+359. Our results of operations are materially affected by conditions in the global capital markets and the economy generally, both in the United States and elsewhere around the world.
+360. The global money and capital markets, while demonstrating generally improved conditions, remain susceptible to volatility and disruption, which could negatively impact market liquidity conditions.
+361. We must also accurately estimate the fair value of the assets in our investment portfolio and, in particular, those investments that are not readily marketable.
+362. As an additional source of funding, our banking subsidiaries offer deposits to individuals through brokerage networks as well as directly to consumers.
+363. (b) Not applicable.
+364. In addition, the information regarding executive officers called for by Item 401(b) of Regulation S-K may be found under the caption Executive Officers of the Company in this Report.

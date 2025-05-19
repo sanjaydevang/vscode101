@@ -1,0 +1,25 @@
+Debug information for CIK 320187, Year 2018
+
+Filing URL: https://www.sec.gov/Archives/edgar/data/320187/000032018718000142/nke-5312018x10k.htm
+Filing Date: 07/25/2018
+Reporting Date: 05/31/2010
+
+First 1000 characters of text:
+
+10-K
+1
+nke-5312018x10k.htm
+10-K
+
+
+
+
+Document
+Table of ContentsUNITED STATESSECURITIES AND EXCHANGE COMMISSIONWashington, D.C. 20549FORM 10-K(Mark One)þ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934FOR THE FISCAL YEAR ENDED May 31, 2018 OR¨ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934FOR THE TRANSITION PERIOD FROM                         TO                         .Commission File No. 1-10635NIKE, Inc.(Exact name of Registrant as specified in its charter)OREGON93-0584541(State or other jurisdiction of incorporation)(IRS Employer Identification No.)One Bowerman Drive, Beaverton, Oregon97005-6453(Address of principal executive offices)(Zip Code)(503) 671-6453(Registrant’s telephone number, including area code)SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT:Class B Common StockNew York Stock Exchange(Title of each class)(Name of each exchange on which registered)SECURITIES REGISTERED PURSUANT TO 
+
+Risk Factor Section Found
+
+First 1000 characters of risk section:
+<html><body><p>.</p><div style="line-height:120%;padding-bottom:0px;padding-top:8px;text-align:justify;padding-left:0px;text-indent:0px;font-size:8pt;"><font style="font-family:Arial;font-size:8pt;color:#000000;">We report our NIKE Brand operations based on our internal geographic organization. Each NIKE Brand geographic segment operates predominantly in one industry: the design, development, marketing and selling of athletic footwear, apparel and equipment. In June 2017, we announced a new company alignment designed to allow NIKE to better serve the consumer personally, at scale. As a result of this organizational realignment, the Company’s reportable operating segments for the NIKE Brand are: North America; Europe, Middle East &amp; Africa (EMEA); Greater China; and Asia Pacific &amp; Latin America (APLA), and include results for the NIKE, Jordan and Hurley brands. Sales through our NIKE Direct operations are managed within each geographic operating segment.</font></div><div style="l
+
+Found 0 risk factor titles:

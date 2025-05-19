@@ -1,0 +1,25 @@
+Debug information for CIK 1031296, Year 2017
+
+Filing URL: https://www.sec.gov/Archives/edgar/data/1031296/000103129617000015/fe-12312016x10k.htm
+Filing Date: 02/21/2017
+Reporting Date: 12/31/2016
+
+First 1000 characters of text:
+
+10-K
+1
+fe-12312016x10k.htm
+10-K
+
+
+
+
+Document
+ UNITED STATES SECURITIES AND EXCHANGE COMMISSIONWashington, D.C. 20549FORM 10-K(Mark One)þ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934For the FISCAL YEAR ended December 31, 2016 OR¨ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934For the transition period from ___________________ to ___________________Commission Registrant; State of Incorporation; I.R.S. EmployerFile Number Address; and Telephone Number Identification No.     333-21011 FIRSTENERGY CORP. 34-1843785  (An Ohio Corporation)    76 South Main Street    Akron, OH 44308    Telephone (800)736-3402       000-53742 FIRSTENERGY SOLUTIONS CORP. 31-1560186  (An Ohio Corporation)    c/o FirstEnergy Corp.    76 South Main Street    Akron, OH 44308    Telephone (800)736-3402  SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:Registrant Title of Each Class Name of Each Exchangeon Which Registered     F
+
+Risk Factor Section Found
+
+First 1000 characters of risk section:
+<html><body><p>, (b) Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations, and (c) other factors discussed herein and in other filings with the SEC by the Registrants. Readers are cautioned not to place undue reliance on these forward-looking statements, which apply only as of the date of this Form 10-K. Neither of the Registrants undertake any obligation to update these statements, except as required by law.</p><div><br/></div><hr style="page-break-after:always"/><div><a name="s052EE123209B5BD5A44DA5EDFCC5760E"></a></div><div><div style="line-height:120%;padding-top:6px;text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;"><br/></font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br/></font></div></div><div><br/></div><div style="line-height:120%;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px
+
+Found 0 risk factor titles:

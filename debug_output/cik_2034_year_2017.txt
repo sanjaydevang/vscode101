@@ -1,0 +1,113 @@
+Debug information for CIK 2034, Year 2017
+
+Filing URL: https://www.sec.gov/Archives/edgar/data/2034/000114420417045100/v472462_10k.htm
+Filing Date: 08/25/2017
+Reporting Date: 06/30/2017
+
+First 1000 characters of text:
+
+10-K
+1
+v472462_10k.htm
+FORM 10-K
+
+
+ 
+ 
+
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+ 
+FORM 10-K
+ 
+ANNUAL REPORT PURSUANT TO SECTION 13 OR
+15 (d)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+For the fiscal year ended June 30, 2017
+Commission file number 000-04217
+ 
+ACETO
+CORPORATION
+(Exact name of registrant as specified
+in its charter)
+ 
+
+
+ 
+New York
+ 
+ 
+ 
+11-1720520
+ 
+
+
+
+
+(State
+    or other jurisdiction of
+incorporation or organization)
+ 
+(I.R.S.
+    Employer Identification
+Number)
+
+ 
+
+
+
+ 
+4 Tri Harbor
+    Court, Port Washington, NY 11050
+ 
+
+ 
+(Address of principal executive offices)
+ 
+
+
+ 
+
+
+
+(516)
+    627-6000
+
+
+(Registrant's telephone number, including
+area code)
+ 
+Securities registered pursuant to Section 12 (b) of the Act:
+ 
+
+
+
+ 
+Common Stock,
+    par value $.01 per share
+ 
+ 
+ 
+The NASDAQ
+    Global Select Market
+ 
+
+(Title of Class)
+ 
+(Name of each exchange on which registered)
+
+ 
+Securities registered pursuant to Section
+12 (g) of the Act: None
+ 
+Indic
+
+Risk Factor Section Found
+
+First 1000 characters of risk section:
+
+
+Found 0 risk factor titles:

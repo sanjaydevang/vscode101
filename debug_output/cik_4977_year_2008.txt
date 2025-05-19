@@ -1,0 +1,241 @@
+Debug information for CIK 4977, Year 2008
+
+Filing URL: https://www.sec.gov/Archives/edgar/data/4977/000095014408001495/g11443e10vk.htm
+Filing Date: 02/29/2008
+Reporting Date: 12/31/2007
+
+First 1000 characters of text:
+
+10-K
+1
+g11443e10vk.htm
+AFLAC INCORPORATED
+
+AFLAC INCORPORATED
+
+ 
+
+
+UNITED STATES SECURITIES AND
+    EXCHANGE COMMISSION
+
+
+Washington, D.C.
+    20549
+
+ 
+
+FORM 10-K
+
+ 
+
+
+
+  
+  
+  
+
+
+
+
+
+    (Mark One)
+
+
+
+
+
+
+[X]
+
+
+
+ 
+
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+    SECURITIES EXCHANGE ACT OF 1934
+
+
+
+
+ 
+
+
+ 
+
+
+      For the fiscal year ended December 31, 2007
+
+
+
+
+
+    or
+
+
+
+
+
+
+[ ]
+
+
+
+ 
+
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+    SECURITIES EXCHANGE ACT OF 1934
+
+
+
+
+ 
+
+
+ 
+
+
+      For the transition period from
+              
+    to
+              
+
+
+
+
+
+ 
+
+Commission File Number:
+    001-07434
+
+
+ 
+
+
+
+
+ 
+
+Aflac Incorporated
+
+
+
+(Exact name of registrant as
+    specified in its charter)
+    
+
+ 
+
+
+
+  
+  
+  
+
+
+
+
+Georgia
+
+
+ 
+
+
+58-1167100
+
+
+
+
+
+
+
+
+
+(State or other jurisdiction of
+    incorporation or organization)
+    
+
+
+ 
+
+
+(I.R.S. Employer Identification No.)
+    
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+1932 Wynnton Road, Columbus, Georgia
+
+
+ 
+
+
+31999
+
+
+
+
+
+
+
+
+
+(Address of principal executive
+ 
+
+Risk Factor Section Found
+
+First 1000 characters of risk section:
+<html><body><p>.
+
+
+</p><div style="margin-top: 6pt; font-size: 1pt"> </div>
+<div align="left" style="margin-left: 0%; margin-right: 0%; font-size: 12pt; font-family: Arial, Helvetica; color: #000000; background: #FFFFFF">
+<b><font style="font-family: Arial, Helvetica">Risk
+    Factors</font></b>
+</div>
+<div style="margin-top: 6pt; font-size: 1pt"> </div>
+<div align="left" style="margin-left: 0%; margin-right: 0%; text-indent: 4%; font-size: 12pt; font-family: Arial, Helvetica; color: #000000; background: #FFFFFF">
+    We face a wide range of risks, and our continued success depends
+    on our ability to identify, prioritize and appropriately manage
+    our enterprise risk exposures. Readers should carefully consider
+    each of the following risks and all of the other information set
+    forth in this
+    <font style="white-space: nowrap">Form 10-K.</font>
+    These risks and other factors may affect forward-looking
+    statements, including those in this document or made by the
+    Co
+
+Found 17 risk factor titles:
+1. Risk Factors
+2. We operate in an industry that is subject to ongoing changes.
+3. Our concentration of business in Japan poses risks to our operations.
+4. Japanese currency translation risk could materially impact reported operating results.
+5. General market conditions affect investments and investment income.
+6. Availability of acceptable yen-denominated investments could adversely affect our profits.
+7. Concentration of our investment portfolios in any particular sector of the economy may have an adverse effect on our financial position or results of operations.
+8. If future policy benefits, claims or expenses exceed those anticipated in establishing premiums and reserves, our financial results would be adversely affected.
+9. Our operating subsidiaries provide cash flow to the Parent Company.
+10. Extensive regulation can impact profitability and growth.
+11. Sales of our products and services are dependent on our ability to attract, retain and support a network of qualified sales associates.
+12. Success of our business depends in part on effective information technology systems and on continuing to develop and implement improvements in technology; certain significant multiyear strategic information technology projects are currently in process.
+13. Changes in accounting standards issued by the FASB or other standard-setting bodies may adversely affect our financial statements.
+14. Any decrease in our financial strength ratings may have an adverse effect on our competitive position.
+15. We face risks related to litigation.
+16. Managing key executive succession is critical to our success.
+17. We also face other risks that could adversely affect our business, results of operations or financial condition, which include:

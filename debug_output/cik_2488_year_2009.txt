@@ -1,0 +1,70 @@
+Debug information for CIK 2488, Year 2009
+
+Filing URL: https://www.sec.gov/Archives/edgar/data/2488/000119312509036235/d10k.htm
+Filing Date: 02/24/2009
+Reporting Date: 12/29/2007
+
+First 1000 characters of text:
+
+10-K
+1
+d10k.htm
+FORM 10-K
+
+Form 10-K
+Table of Contents
+    UNITED STATES  SECURITIES AND EXCHANGE COMMISSION  Washington, D.C. 20549     
+FORM 10-K  (Mark One)
+  
+
+
+ 
+x
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934.  
+  For the fiscal year ended December 27, 2008  OR   
+
+
+ 
+¨
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934.  
+  For the transition period from
+                    to
+                      Commission File Number 001-07882      ADVANCED MICRO DEVICES, INC.
+ (Exact name of registrant as specified in its charter)   
+
+
+
+
+
+
+Delaware
+ 
+94-1692300
+
+(State or other jurisdiction of incorporation or organization)
+ 
+(I.R.S. Employer Identification No.)
+
+
+
+
+One AMD Place, Sunnyvale, California
+ 
+94088
+
+(Address of principal executive offices)
+ 
+(Zip Code)
+ (408) 749-4000  (Registrants telephone number, including area code)      Securities registered pursuant
+to Section 12(b) of the Act:   
+
+
+
+
+
+
+ (Title 
+
+Risk Factor Section NOT Found
+
+Found 0 risk factor titles:

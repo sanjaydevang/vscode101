@@ -1,0 +1,132 @@
+Debug information for CIK 3116, Year 2015
+
+Filing URL: https://www.sec.gov/Archives/edgar/data/3116/000117184315001465/f10k_030215.htm
+Filing Date: 03/17/2015
+Reporting Date: 12/31/2014
+
+First 1000 characters of text:
+
+10-K
+1
+f10k_030215.htm
+FORM 10-K
+
+f10k_030215.htm
+
+
+
+
+
+
+
+
+ 
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+
+Form 10-K
+
+
+
+
+
+
+þ
+
+
+Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+
+  
+  
+
+  
+
+For the fiscal year ended December 31, 2014
+
+
+  
+  
+
+
+o
+
+
+Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+
+
+
+
+Commission File Number: 001-32360
+
+
+AKORN, INC.
+(Exact name of registrant as specified in its charter)
+
+
+
+
+
+
+LOUISIANA
+
+
+72-0717400
+
+
+
+(State or other jurisdiction of
+
+
+(I.R.S. Employer Identification No.)
+
+
+
+incorporation or organization)
+
+  
+
+
+
+
+1925 W. Field Court, Suite 300, Lake Forest, Illinois 60045
+(Address of principal executive offices and zip code)
+
+
+Registrant’s telephone number, including area code: (847) 279-6100
+
+
+
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+
+
+
+
+
+
+Title of each class 
+
+ 
+
+Name of each exchange on which registered 
+
+
+
+Common Stock, No Par V
+
+Risk Factor Section Found
+
+First 1000 characters of risk section:
+<html><body><p>– “Our growth depends on our ability to timely develop and successfully market new pharmaceutical products.”
+</p><div style="TEXT-INDENT: 0pt; DISPLAY: block"><br/>
+</div>
+<div align="left" style="TEXT-INDENT: 18pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="FONT-STYLE: italic; DISPLAY: inline">Mergers and Acquisitions.</font> We actively seek to expand and enhance our business through strategic acquisitions.  We seek to acquire businesses assets and products that we believe complement our existing business and provide us opportunities for growth and synergies.  Below is a summary of our recent strategic acquisitions of companies and businesses. See Item 1A – “Risk Factors” for a description of risks that accompany our acquisition strategy.</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br/>
+</div>
+<div align="left" style="TEXT-INDENT: 18pt; DISPLAY: block; MA
+
+Found 0 risk factor titles:

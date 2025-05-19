@@ -1,0 +1,25 @@
+Debug information for CIK 1467858, Year 2016
+
+Filing URL: https://www.sec.gov/Archives/edgar/data/1467858/000146785816000255/gm201510k.htm
+Filing Date: 02/03/2016
+Reporting Date: 12/31/2015
+
+First 1000 characters of text:
+
+10-K
+1
+gm201510k.htm
+10-K
+
+
+
+
+10-K
+Table of ContentsUNITED STATES SECURITIES AND EXCHANGE COMMISSIONWashington, DC 20549-1004Form 10-KþANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934For the fiscal year ended December 31, 2015 OR¨TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934For the transition period from              to             Commission file number 001-34960GENERAL MOTORS COMPANY(Exact name of registrant as specified in its charter)STATE OF DELAWARE27-0756180(State or other jurisdiction ofincorporation or organization)(I.R.S. EmployerIdentification No.)  300 Renaissance Center, Detroit, Michigan48265-3000(Address of principal executive offices)(Zip Code)Registrant’s telephone number, including area code(313) 556-5000Securities registered pursuant to Section 12(b) of the Act:Title of each className of each exchange on which registeredCommon StockNew York Stock Exchange/Toronto Stock ExchangeWarrants (e
+
+Risk Factor Section Found
+
+First 1000 characters of risk section:
+<html><body><p>for further discussion of these risks.</p><div style="line-height:120%;text-align:justify;text-indent:32px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br/></font></div><br/><div style="text-align:center;"><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"> 7</font></div><div style="line-height:120%;text-align:right;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br/></font></div></div><hr style="page-break-after:always"/><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br/></font></div><div style="line-height:120%;font-size:10pt;"><a href="#sD499EEAB2FBB137395677E99FF6D9E27" style="font-family:inherit;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Table of Contents</font></a></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">GE
+
+Found 0 risk factor titles:

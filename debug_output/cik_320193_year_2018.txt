@@ -1,0 +1,22 @@
+Debug information for CIK 320193, Year 2018
+
+Filing URL: https://www.sec.gov/Archives/edgar/data/320193/000032019318000145/a10-k20189292018.htm
+Filing Date: 11/05/2018
+Reporting Date: 09/29/2018
+
+First 1000 characters of text:
+
+10-K
+1
+a10-k20189292018.htm
+10-K
+
+
+
+
+Document
+ UNITED STATESSECURITIES AND EXCHANGE COMMISSIONWashington, D.C. 20549 FORM 10-K (Mark One)☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934For the fiscal year ended September 29, 2018or☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934For the transition period from              to             Commission File Number: 001-36743 Apple Inc.(Exact name of Registrant as specified in its charter) California 94-2404110(State or other jurisdictionof incorporation or organization) (I.R.S. Employer Identification No.)   One Apple Park WayCupertino, California 95014(Address of principal executive offices) (Zip Code)(408) 996-1010(Registrant’s telephone number, including area code) Securities registered pursuant to Section 12(b) of the Act:Common Stock, $0.00001 par value per share1.000% Notes due 20221.375% Notes due 20240.875% Notes due 20251.625% Notes due 20262.000% Notes
+
+Risk Factor Section NOT Found
+
+Found 0 risk factor titles:

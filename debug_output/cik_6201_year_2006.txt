@@ -1,0 +1,126 @@
+Debug information for CIK 6201, Year 2006
+
+Filing URL: https://www.sec.gov/Archives/edgar/data/6201/000095013406003715/d33303e10vk.htm
+Filing Date: 02/24/2006
+Reporting Date: 12/31/2005
+
+First 1000 characters of text:
+
+10-K
+1
+d33303e10vk.htm
+FORM 10-K
+
+e10vk
+
+Table of Contents
+
+ 
+ 
+United States Securities and Exchange Commission
+
+Washington, D.C. 20549
+ 
+
+Form 10-K
+
+
+
+
+ 
+ 
+ 
+
+
+þ
+ 
+Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+
+
+For the fiscal year ended December 31, 2005
+
+
+
+
+
+ 
+ 
+ 
+
+
+o
+ 
+Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+
+
+Commission File Number: 1-8400
+AMR Corporation
+
+(Exact name of registrant as specified in its charter)
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+Delaware
+
+ 
+75-1825172
+
+
+(State or other jurisdiction of
+incorporation or organization)
+
+ 
+(IRS Employer
+Identification Number)
+
+
+
+
+4333 Amon Carter Blvd.
+Fort Worth, Texas 76155
+(Address of principal executive offices, including zip code)
+(817) 963-1234
+(Registrants telephone number, including area code)
+ 
+Securities registered pursuant to Section 12(b) of the Act:
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+Title of Each Class
+
+ 
+Name of Exchange on Which Registered
+
+
+ 
+
+ 
+ 
+
+
+Common Stock, $1 par
+
+Risk Factor Section Found
+
+First 1000 characters of risk section:
+
+
+Found 0 risk factor titles:

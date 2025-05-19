@@ -1,0 +1,172 @@
+Debug information for CIK 4977, Year 2009
+
+Filing URL: https://www.sec.gov/Archives/edgar/data/4977/000095014409001463/g17619e10vk.htm
+Filing Date: 02/20/2009
+Reporting Date: 12/31/2008
+
+First 1000 characters of text:
+
+10-K
+1
+g17619e10vk.htm
+FORM 10-K
+
+FORM 10-K
+
+Table of Contents
+
+ 
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-K
+
+(Mark One)
+
+
+
+
+
+ 
+ 
+ 
+
+
+þ
+ 
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+For the fiscal year ended December 31, 2008
+
+
+OR
+
+
+
+ 
+ 
+ 
+
+
+o
+ 
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+For the transition period from                      to                     
+
+
+Commission File Number: 001-07434
+
+
+Aflac Incorporated
+
+ 
+(Exact name of registrant as specified in its charter)
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+Georgia
+
+ 
+58-1167100
+
+
+   
+
+
+(State or other jurisdiction of incorporation or organization)
+
+ 
+(I.R.S. Employer Identification No.)
+
+
+ 
+ 
+ 
+
+
+1932 Wynnton Road, Columbus, Georgia
+
+ 
+31999
+
+
+   
+
+
+(Address of principal executive offices)
+
+ 
+(ZIP Code)
+
+
+
+
+706.323.3431
+ 
+(Registrants telephone number, including area code)
+Securities registered pursuant to Section 12(
+
+Risk Factor Section Found
+
+First 1000 characters of risk section:
+<html><body><p>.
+
+</p><div align="left" style="font-size: 10pt; margin-top: 6pt">     We face a wide range of risks, and our continued success depends on our ability to identify,
+prioritize and appropriately manage our enterprise risk exposures. Readers should carefully
+consider each of the following risks and all of the other information set forth in this Form 10-K.
+These risks and other factors may affect forward-looking statements, including those in this
+document or made by the Company elsewhere, such as in earnings release webcasts, investor
+conference presentations or press releases. The risks and uncertainties described herein may not be
+the only ones facing the Company. Additional risks and uncertainties not presently known to us or
+that we currently believe to be immaterial may also adversely affect our business. If any of the
+following risks and uncertainties develop into actual events, there could be a material impact on
+the Company.
+</div>
+<div align="left" style="font-size
+
+Found 29 risk factor titles:
+1. Difficult conditions in global capital markets and the economy generally may have a material adverse effect on our investments, capital position, revenue, profitability and liquidity and harm our business, and these conditions may not improve in the near future.
+2. The effect that governmental actions for the purpose of stabilizing the financial markets will have on such markets generally or on us is difficult to determine at this time.
+3. Defaults, downgrades, widening credit spreads or other events impairing the value of the fixed maturity securities and perpetual securities in our investment portfolio may reduce our earnings.
+4. The impairment of other financial institutions could adversely affect us.
+5. We are subject to certain risks as a result of our investments in hybrid securities.
+6. The valuation of our investments includes methodologies, estimations and assumptions which are subject to differing interpretations and could result in changes to investment valuations that may adversely affect our results of operations or financial condition.
+7. The determination of the amount of impairments taken on our investments is subjective and could materially impact our results of operations or financial position.
+8. Gross unrealized losses may be realized or result in future impairments.
+9. Lack of availability of acceptable yen-denominated investments could adversely affect our profits.
+10. The concentration of our investment portfolios in any particular sector of the economy may have an adverse effect on our financial position or results of operations.
+11. Our concentration of business in Japan poses risks to our operations.
+12. Monthly Report of Recent Economic and Financial Developments
+13. We operate in an industry that is subject to ongoing changes.
+14. We are exposed to significant financial and capital markets risk which may adversely affect our results of operations, financial condition and liquidity, and our net investment income can vary from period to period.
+15. Foreign Currency Risk
+16. Interest Rate Risk
+17. If future policy benefits, claims or expenses exceed those anticipated in establishing premiums and reserves, our financial results would be adversely affected.
+18. As a holding company, the Parent Company depends on the ability of its subsidiaries to transfer funds to it to meet its debt service and other obligations and to pay dividends on its common stock.
+19. Extensive regulation can impact profitability and growth.
+20. Sales of our products and services are dependent on our ability to attract, retain and support a network of qualified sales associates.
+21. The success of our business depends in part on effective information technology systems and on continuing to develop and implement improvements in technology; certain significant multiyear strategic information technology projects are currently in process.
+22. Changes in accounting standards issued by the Financial Accounting Standards Board (FASB) or other standard-setting bodies may adversely affect our financial statements.
+23. Any decrease in our financial strength or debt ratings may have an adverse effect on our competitive position.
+24. If we fail to comply with restrictions on patient privacy and information security, including taking steps to ensure that our business associates who obtain access to sensitive patient information maintain its confidentiality, our reputation and business operations could be materially adversely affected.
+25. We face risks related to litigation.
+26. Managing key executive succession is critical to our success.
+27. Any event, including one external to our operations, could damage our reputation.
+28. We also face other risks that could adversely affect our business, results of operations or financial condition, which include:
+29. Table of Contents

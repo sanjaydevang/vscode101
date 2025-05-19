@@ -1,0 +1,221 @@
+Debug information for CIK 5768, Year 2008
+
+Filing URL: https://www.sec.gov/Archives/edgar/data/5768/000110465908039830/a08-15969_110k.htm
+Filing Date: 06/13/2008
+Reporting Date: 03/31/2006
+
+First 1000 characters of text:
+
+10-K
+1
+a08-15969_110k.htm
+10-K
+
+
+
+ 
+
+UNITED
+STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+
+ 
+FORM 10-K
+ 
+
+
+
+
+x
+
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+  SECURITIES EXCHANGE ACT OF 1934
+
+
+
+
+ 
+
+
+
+
+For
+  the fiscal year ended March 31, 2008
+
+
+
+
+ 
+
+
+
+
+o
+
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+  SECURITIES EXCHANGE ACT OF 1934
+
+
+
+
+ 
+Commission file number 1-6549
+ 
+
+ 
+AMERICAN SCIENCE AND
+ENGINEERING, INC.
+(Exact
+name of registrant as specified in its charter)
+ 
+
+
+
+
+Massachusetts
+(State or other jurisdiction of
+  incorporation or organization)
+
+
+ 
+
+
+04-2240991
+(IRS Employer Identification No.)
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+829
+  Middlesex Turnpike,
+  Billerica, Massachusetts
+(Address of principal executive offices)
+
+
+ 
+
+
+01821
+(Zip Code)
+
+
+
+
+ 
+(978)
+262-8700
+(Registrants
+telephone number, including area code)
+ 
+
+ 
+Securities registered
+pursuant to Section 12(b) of the Act:
+ 
+
+
+
+
+Title
+  of each class
+
+
+ 
+
+
+Name of
+  each exchange on which register
+
+Risk Factor Section Found
+
+First 1000 characters of risk section:
+<html><body><p>, among others, could cause actual
+results to differ materially from those indicated by forward-looking statements
+made herein and presented elsewhere by management from time to time.  We expressly disclaim any obligation to
+update or alter our forward-looking statements, whether as a result of new information,
+future events or otherwise, except as required by law.</p>
+<p style="color:windowtext;margin:0in 0in .0001pt;"><font face="Times New Roman" size="2" style="font-size:10.0pt;"> </font></p>
+<p style="color:windowtext;margin:0in 0in .0001pt;text-indent:.2in;"><font face="Times New Roman" size="2" style="font-size:10.0pt;">All references in this
+Annual report to AS&amp;E, the Company, we, our and us means American
+Science and Engineering, Inc. and its subsidiary.</font></p>
+<p style="color:windowtext;margin:0in 0in .0001pt;"><font face="Times New Roman" size="2" style="font-size:10.0pt;"> </font></p>
+<p style="color:windowtext;margin:0in 0in .0001pt;"><b><f
+
+Found 62 risk factor titles:
+1. ITEM 1. BUSINESS
+2. Transmission X-ray Technology:
+3. Z Backscatter Technology:
+4. Other Technologies:
+5. Products and Systems
+6. CargoSearch Inspection Systems:
+7. OmniView Gantry System
+8. PalletSearch
+9. Z Backscatter Systems:
+10. Z Backscatter Van (ZBV
+11. ParcelSearch
+12. Inspection Systems:
+13. Model 101VAN
+14. Models 101Z
+15. , 101ZZ, and 101XL
+16. Personnel Screening:
+17. SmartCheck
+18. Contract Research & Development
+19. Service and Support:
+20. Intellectual Property
+21. Sales and Marketing
+22. Competition
+23. ISO 9001 Certification
+24. Component Availability
+25. Regulatory Compliance
+26. Research and Development
+27. Sales Backlog
+28. Financial Information about Foreign and Domestic Operations and Export Sales
+29. Net Sales and Contract Revenues
+30. Fiscal Year
+31. (Dollars in thousands)
+32. Available Information
+33. ITEM 1A. RISK FACTORS
+34. The Companys reliance on a small number of customers for a large portion of its revenues could harm its business and prospects.
+35. The Company conducts its business worldwide, which exposes it to a number of difficulties in coordinating its international activities and dealing with multiple regulatory environments.
+36. The Companys lengthy sales cycle requires it to incur significant expenses with no assurance that it will generate revenue or recover such expenses.
+37. The Companys business is dependent upon governmental policies and appropriations.
+38. Changes in governmental regulations may reduce demand for the Companys products or increase its expenses.
+39. The Companys reliance on a limited number of suppliers for some key components for its products could harm its business and prospects.
+40. Fluctuations in the Companys quarterly operating results may cause its stock price to fluctuate.
+41. The Company could incur substantial costs as a result of product liability claims and adverse publicity if its X-ray inspection systems fail to detect bombs, explosives, weapons, contraband or other threats to personal safety.
+42. The Companys insurance may be insufficient to protect it from product liability claims.
+43. The Company may not be able to fund its research and development activities.
+44. The Companys success depends on new product development.
+45. The Companys success depends upon its ability to adapt to rapid changes in technology and customer requirements.
+46. The Company may not be able to compete successfully.
+47. The Companys business could be harmed if it is unable to protect its intellectual property.
+48. The Companys business may be materially and adversely affected by infringement claims initiated by the Company or its competitors.
+49. The Companys success depends on its ability to attract and retain qualified management professionals.
+50. Existing external financing may not be available in the future.
+51. Future sales of the Companys common stock by existing stockholders could depress the market price of the Companys common stock.
+52. The volatility of the Companys stock price could adversely affect an investment in the Companys common stock.
+53. Provisions in the Companys articles of organization and the Companys shareholder rights plan may have the effect of discouraging advantageous offers for the Companys business or common stock, and limit the price that investors might be willing to pay in the future for shares of the Companys common stock.
+54. Transmission X-ray Technology:Transmission images are created from X-rays that pass through the object that is being examined. Medical X-ray images are a type of transmission X-ray. In transmission imaging, the detector measures the relative intensity of the X-rays that pass directly through the object. The degree to which X-rays are transmitted through an object is dependant upon the size of the X-ray source and the composition and quantity of the material in the path of the X-ray beam. Low energy sources are used to scan smaller objects such as parcels and baggage, and high energy sources are used for scanning large
+55. Z Backscatter Technology:Most of the Companys X-ray systems utilize AS&Es patented Z Backscatter technology. The term Backscatter refers to those X-rays thatscatteroff of the object under examinationbacktoward the X-ray source. Z Backscatter detectors capture these scattered X-rays which are then used to create highly readable, photo-like images.
+56. Other Technologies:Two other technologies employed by AS&E are Shaped Energy and Radioactive Threat Detection (RTD). Shaped Energy technology is a specialized form of high energy transmission X-ray which is used in AS&Es OmniView product line. Radioactive Threat Detection (RTD) is a technology which is used to find radioactive materials in vehicles.
+57. CargoSearch Inspection Systems:The CargoSearch family of systems includes non-intrusive inspection products which are primarily used for the screening of trucks, cars, cargo containers, pallets, and air cargo at locations including border crossings, seaports, military bases, railroad centers, airports, and cargo and transportation hubs. The CargoSearch systems are designed to combat trade fraud, drug trafficking, weapons smuggling, and terrorism. The CargoSearch family includes:
+58. Z Backscatter Systems:Z Backscatter Systems include imaging systems that use Z Backscatter imaging only.
+59. ParcelSearchInspection Systems:ParcelSearch systems are designed for the non-intrusive X-ray scanning of parcels, baggage, and mail. These systems are primarily located in government facilities, airports, commercial office buildings, high-security federal facilities and convention centers. ParcelSearch systems include:
+60. Personnel Screening:Personnel screening is a crucial part of any threat detection effort. Today, threats can take the smallest of forms and are often easily hidden on a person. With the advent of suicide bombings, personnel screening has taken on an even more important role. Personnel screening is also important in the effort to intercept prohibited substances, such as drugs and alcohol.
+61. Contract Research & Development: AS&E engages in a variety of contract research and development (CRAD) programs, mostly for agencies of the U.S. government. AS&E pursues CRAD opportunities which it believes provide avenues for advancing our core technologies or developing product offerings for strategic customers or markets.
+62. Service and Support:AS&Es highly skilled Field Service Engineers (FSEs) provide support services worldwide. Each FSE has a technical degree in Electrical and/or Mechanical Engineering (or equivalent experience), and is trained in the operation and repair of electronics, hydraulics, pneumatics, mechanics, electrical systems, and computers. FSEs are available 7 days a week, 24 hours a day, and are located at AS&E offices in Asia, Central America, Europe, the Middle East, and North America. In addition, Technical Support is provided at the Companys headquarters in Billerica, Massachusetts. AS&E provides comprehensive, cost-effective spare parts solutions customized for each system. The Company maintains an inventory of field-replaceable components in order to meet customer needs for spare parts.

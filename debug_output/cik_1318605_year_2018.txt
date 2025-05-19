@@ -1,0 +1,111 @@
+Debug information for CIK 1318605, Year 2018
+
+Filing URL: https://www.sec.gov/Archives/edgar/data/1318605/000156459018002956/tsla-10k_20171231.htm
+Filing Date: 02/23/2018
+Reporting Date: 12/31/2017
+
+First 1000 characters of text:
+
+10-K
+1
+tsla-10k_20171231.htm
+10-K
+
+
+
+tsla-10k_20171231.htm
+
+
+ 
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+FORM 10-K
+ 
+(Mark One)
+
+
+
+
+☒
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended December 31, 2017
+OR
+
+
+
+
+☐
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from                      to                      
+Commission File Number: 001-34756
+ 
+Tesla, Inc.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+
+
+
+
+Delaware
+
+ 
+
+91-2197729
+
+
+
+(State or other jurisdiction of
+incorporation or organization)
+
+ 
+
+(I.R.S. Employer
+Identification No.)
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+3500 Deer Creek Road
+Palo Alto, California
+
+ 
+
+94304
+
+
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+
+(650) 681-5000
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+ 
+
+
+
+
+Title of each class
+
+
+
+Risk Factor Section NOT Found
+
+Found 0 risk factor titles:
