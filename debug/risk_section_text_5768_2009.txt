@@ -1,0 +1,1668 @@
+”, among others, could cause actual
+results to differ materially from those indicated by forward-looking statements
+made herein and presented elsewhere by management from time to time.  We expressly disclaim any obligation to
+update or alter our forward-looking statements, whether as a result of new
+information, future events or otherwise, except as required by law.
+ 
+All references in
+this Annual Report to “AS&E”, the “Company”, “we”, “our” and “us” means
+American Science and Engineering, Inc. and its subsidiary.
+ 
+PART I
+ 
+ITEM 1.
+BUSINESS
+ 
+American Science
+and Engineering, Inc., a Massachusetts corporation formed in 1958, develops,
+manufactures, markets, and sells X-ray inspection and other detection solutions
+for homeland security and other targeted markets.  AS&E® provides maintenance, warranty, research,
+engineering, and training services related to these solutions.
+ 
+The Company
+manufactures sophisticated X-ray inspection products that can be used to
+inspect parcels, baggage, vehicles, pallets, cargo containers, and people.  The Company sells its products throughout the
+world to a variety of customers, including:
+ 
+·                  Authorities responsible for port and
+border security;
+ 
+·                  Military organizations;
+ 
+·                  High threat commercial and government
+facilities;
+ 
+·                  Aviation security agencies; and
+ 
+·                  Legal enforcement agencies
+ 
+AS&E’s products are
+used by these customers to help combat terrorism, trade fraud, drug
+trafficking, weapons smuggling, and illegal immigration.  Our products are also used for military force
+protection and general facility security.
+ 
+Beginning with the
+terrorist attacks on September 11, 2001 and continuing with the proliferation
+of global terrorism, homeland security and force protection concerns have
+become of paramount importance around the world. The Company believes that
+homeland defense, force protection and military security initiatives will
+continue to provide new opportunities, with additional growth in the seaports
+and borders, federal and military facilities, and corporate security markets.
+ 
+The Company’s
+objective is to distinguish itself from its competitors by offering innovative
+products which provide customers with superior threat detection and/or improved
+operating efficiencies. To achieve this objective, AS&E incorporates a
+variety of X-ray imaging and image processing technologies into its
+products.  A number of the Company’s
+products use our patented Z Backscatter™ technology.  Z Backscatter is a unique X-ray imaging
+technique that has distinct advantages for the detection of organic or low
+atomic number (Z) materials such as plastic explosives, composite weapons,
+and illegal drugs even when concealed by complex backgrounds.
+ 
+Technology
+ 
+The Company’s
+X-ray imaging products utilize several technologies including traditional
+transmission X-ray technology, our proprietary Z Backscatter technology, Shaped
+Energy® technology and Radioactive Threat Detection
+(RTD).
+ 
+X-ray imaging
+devices contain these basic subsystems: X-ray sources, detectors and
+software.  The source generates an X-ray
+beam that is directed at the object to be scanned (baggage, container, or
+similar object).  When the source X-rays
+encounter the object, they are either absorbed by the object, pass directly
+through the object, or scatter off of the object.  Dense (high atomic number) materials tend to
+absorb X-rays.  Materials that are less
+dense (low atomic number) tend to scatter X-rays.  The detectors record the intensity of the
+transmitted or scattered X-rays. 
+Software is then used to interpret the signals from the detectors and to
+construct and display X-ray images.
+ 
+Transmission
+X-ray Technology:  Transmission images are created from X-rays
+that pass through the object that is being examined.  Medical X-ray images are a type of
+transmission X-ray.  In transmission
+imaging, the detector measures the relative intensity of the X-rays that pass
+directly through the object.  The degree
+to which X-rays are transmitted through an object is
+ 
+3
+
+
+
+
+
+Table of Contents
+ 
+dependent upon the size
+of the X-ray source and the composition and quantity of the material in the
+path of the X-ray beam.  Low energy
+sources are used to scan smaller objects such as parcels and baggage, and high
+energy sources are used for scanning large items such as trucks and cargo
+containers.  Transmission X-ray images
+are useful for seeing “through” the object of interest.  A transmission image, however, represents an
+aggregate of all objects in the path on the beam and can therefore be difficult
+to interpret.
+ 
+Z
+Backscatter Technology:   Most of the
+Company’s X-ray systems utilize AS&E’s patented Z Backscatter
+technology.  The term “Backscatter”
+refers to those X-rays that scatter
+off of the object under examination back
+toward the X-ray source.  Z Backscatter
+detectors capture these scattered X-rays which are then used to create highly
+readable, photo-like images.
+ 
+Many threat items
+are organic in nature and have low atomic numbers.  Such items include drugs, explosives,
+composite weapons, and stowaways.  These
+items tend to scatter X-rays much more so than inorganic materials like steel
+and other metals.  As a result, these
+organic threat items tend to stand out as bright, visible objects when scanned
+by a Z Backscatter imaging system.
+ 
+Z Backscatter
+images complement transmission images and several of the Company’s products
+employ both technologies.  The
+combination of backscatter and transmission images gives the operator more
+information about the contents of the baggage or container by differentiating
+dense materials, such as metals, from low-Z materials such as explosives.  In addition, the two images enable an
+inspector to perform a quicker and more thorough examination of the object in
+question.
+ 
+Other Technologies:   Two other
+technologies employed by AS&E are Shaped Energy and Radioactive Threat
+Detection (RTD).  Shaped Energy
+technology is a specialized form of high energy transmission X-ray which is
+used in AS&E’s OmniView™.  Radioactive Threat Detection (RTD) is a
+technology which is used to find radioactive materials in vehicles and is an
+option on selected AS&E detection systems.
+ 
+Products
+and Systems
+ 
+The Company’s
+products and services can be grouped into five different areas including
+CargoSearch Inspection Systems, Z Backscatter Systems, ParcelSearch and
+Personnel Screening Inspection Systems, Contract Research and Development, and
+Service and Support.
+ 
+CargoSearch
+Inspection Systems: The CargoSearch family of systems includes non-intrusive inspection
+products which are primarily used for the screening of trucks, cars, cargo
+containers, pallets, and air cargo at locations including border crossings,
+seaports, military bases, railroad centers, airports, and cargo and transportation
+hubs. The CargoSearch systems are designed to combat trade fraud, drug
+trafficking, weapons smuggling, and terrorism. The CargoSearch family includes:
+ 
+OmniView™ Gantry System: 
+a multi-view, relocatable high-energy cargo and vehicle inspection
+system.  This system combines 6 MeV
+high-energy transmission imaging and three Z Backscatter X-ray views for left,
+right and top-side imaging of cargo. 
+OmniView provides side and top-down views of the cargo in a relocatable
+configuration. OmniView utilizes AS&E’s patented Shaped Energy® technology to
+penetrate densely loaded cargo containers. Shaped Energy “shapes” the high
+energy spectrum to filter out non-essential radiation, making the system safe
+for operators and staff and eliminating the need for extensive exclusion
+zones.  High energy 6 MeV transmission
+X-rays can penetrate 14 inches (35 cm) of steel or 8.5 feet (260 cm) of oil,
+yet do not require heavy shielding, an exterior building, or standoff zones.   The Z Backscatter images are ideal for the
+detection of organic or “low Z” materials including explosives, drugs, alcohol,
+and tobacco that transmission X-rays alone can miss. The System’s multiple Z
+Backscatter views of the cargo improve detection while facilitating
+interpretation of the X-ray image.  The
+OmniView Gantry System’s scanning platform operates by moving on rails past
+stationary vehicles and cargo.  The
+system is bi-directional allowing for a throughput of approximately 25 trucks
+per hour.  OmniView Gantry is ideal for
+ports, borders, and high-threat facilities.
+ 
+Z Portal®:  a multi-view, high throughput, drive-through
+inspection system capable of scanning cars, vans, trucks, and their cargoes for
+threats and contraband.  The relocatable
+screening system can be configured with one, two or three Z Backscatter X-ray
+detectors, allowing for left, right and/or top-side imaging of the vehicle
+under examination.  The images produced
+by the Z Portal are ideal for the detection of organic materials including
+explosives, drugs, alcohol, tobacco, and stowaways.  The Z Portal is well-suited for scanning
+vehicles at border crossings, high threat facilities, and other vehicle entry
+checkpoints.
+ 
+Z Gantry™: a multi-view Z Backscatter inspection
+system capable of scanning cars, vans, trucks, and their cargo for concealed
+threats and contraband in a gantry configuration. The relocatable Z Gantry
+screening system is configured with three Z Backscatter imaging modules,
+allowing a left, right, and top view of the vehicle under examination.  The rail-mounted Z Gantry system moves over
+the top of stationary vehicles and cargo while scanning for threats and illegal
+goods such as stowaways, explosives, drugs, and alcohol.
+ 
+4
+
+
+
+
+
+Table of Contents
+ 
+Z Backscatter Systems:  Z
+Backscatter Systems include imaging systems that use Z Backscatter imaging only.
+ 
+Z Backscatter Van™ (ZBV): a mobile X-ray screening system built into a
+commercially available chassis.  It
+utilizes Z Backscatter X-ray technology to produce photo-like images of the
+contents of a vehicle or cargo container, highlighting organic materials such
+as plastic explosives or other anomalies. With one-sided, backscatter-only
+imaging, security officials can use ZBV for screening vehicles, sea containers,
+and other cargo for terrorist threats, trade fraud, and contraband, simply by
+driving past the objects.   The ZBV can
+be equipped with Radioactive Threat Detection (RTD) capability.  With RTD, the ZBV can produce Z Backscatter
+images for general screening while simultaneously scanning the object for the
+presence of radioactive material.  The
+ZBV is available on a variety of chassis in several versions, including a
+militarized trailer configuration (ZBV Mil Trailer) that is designed for use by
+the U.S. military.
+ 
+ParcelSearch
+and Personnel Screening Inspection Systems: ParcelSearch systems are designed for the
+non-intrusive X-ray scanning of parcels, baggage, and mail. These systems are
+primarily located in government facilities, airports, commercial office
+buildings, high-security federal facilities and convention centers.
+ 
+Personnel
+screening is a crucial part of any threat detection effort.  Today, threats can take the smallest of forms
+and are often easily hidden on a person. 
+With the advent of suicide bombings, personnel screening has taken on an
+even more important role.  Personnel
+screening is also important in the effort to intercept prohibited substances,
+such as drugs and alcohol.
+ 
+Gemini™: 
+Gemini is a parcel and baggage inspection system which combines AS&E’s
+Z Backscatter technology with dual-energy transmission X-ray to provide
+enhanced detection for a wide range of threats. 
+Dual-energy transmission is best suited for the detection of threats
+such as guns and knives, and for identifying wires and other components of
+improvised explosive devices (IEDs). It also provides some organic and metallic
+discrimination in uncluttered environments. 
+Z Backscatter imaging provides enhanced detection of organic materials
+such as explosives and narcotics, which may be missed by transmission-only
+systems in cluttered baggage.  In
+addition, the complementary photo-like Z Backscatter image makes it easier for
+security officers to interpret images, thus reducing analysis time and
+minimizing operator fatigue. During fiscal 2009 the Company introduced two
+additional Gemini models to customers with a range of tunnel sizes to suit
+various applications.
+ 
+SmartCheck™:  a personnel
+screening system for the effective screening for contraband and threats hidden
+under a person’s clothing.  SmartCheck
+simultaneously detects both metallic and non-metallic objects, such as guns and
+knives, plastic explosives, liquid explosives, composite weapons, drugs and
+other hidden threats and contraband.  Its
+Z Backscatter image gives the operator an easy-to-read display of where the
+threat or contraband is hidden, thus eliminating the need for intrusive and
+time-consuming pat-downs and strip searches. 
+SmartCheck employs proprietary advanced image processing algorithms to
+enhance privacy, while maintaining a high level of threat detection.
+ 
+Contract Research & Development: 
+AS&E engages in a variety of contract research and development
+(CRAD) programs, mostly for agencies of the U.S. government.  AS&E pursues CRAD opportunities which it
+believes provide avenues for advancing our core technologies or developing
+product offerings for strategic customers or markets.
+ 
+Service and Support:   AS&E’s
+highly skilled Field Service Engineers (FSEs) provide support services
+worldwide. Each FSE has a technical degree in Electrical and/or Mechanical
+Engineering (or equivalent experience), and is trained in the operation and
+repair of electronics, hydraulics, pneumatics, mechanics, electrical systems,
+and computers. FSEs are available 7 days a week, 24 hours a day, and are
+located at AS&E sites in Asia, Europe, the Middle East, Africa and North
+America.  In addition, Technical Support
+is provided at the Company’s headquarters in Billerica, Massachusetts. AS&E
+provides comprehensive, cost-effective spare parts solutions customized for
+each system.  The Company maintains an
+inventory of field-replaceable components in various depots around the world in
+order to meet customer needs for spare parts.
+ 
+AS&E provides
+comprehensive technical training on all X-ray inspection systems. Our
+instructors specialize in current threat detection techniques and employ both
+classroom theory and hands-on training to help clients become expert users of
+AS&E equipment. Our technical training informs customers about detection
+technologies and best practices through demonstrations and field activities
+that simulate real-life threat and contraband encounters.  Technical training is included with each
+system sale and additional training for image analysis, service and maintenance
+training, and other customized training courses are provided aftermarket to
+interested customers.
+ 
+Intellectual
+Property
+ 
+The Company relies
+on a combination of patent, copyright, trademark, and trade secret laws, and
+contractual provisions to protect our intellectual property.  In general, the
+Company pursues a policy of obtaining patent protection both in the United
+States and in selected foreign countries for subject matter we consider
+patentable and important to our business strategy.  As of March 31, 2009, the Company has in
+excess of 40 unexpired patents issued by the United States Patent and Trademark
+Office and multiple pending applications directed to a variety of
+technologies.  The Company also has
+granted patents or pending
+ 
+5
+
+
+
+
+
+Table of Contents
+ 
+applications pursuant to
+the following treaties and/or in the following countries: Patent Cooperation
+Treaty, European Patent Convention, Gulf Cooperation Counsel, Australia,
+Austria, Belgium, Canada, China, Denmark, Finland, France, Germany, Greece,
+Hong Kong, India, Israel, Ireland, Italy, Japan, Korea, Malaysia, Mexico,
+Netherlands, New Zealand, Norway, Portugal, Russian Federation, Singapore,
+Spain, Sweden, Switzerland, Thailand, Turkey, Ukraine, United Arab Emirates,
+United Kingdom.  A significant number of
+our patents have been issued in the last five years.
+ 
+Generally, if
+pending on June 8, 1995, a patent issued in the United States is effective
+for the longer of 17 years from the date of issue or 20 years from the United
+States filing date of the earliest non-provisional application upon which the
+patent is based.  If filed after June 8,
+1995, a patent is generally effective for a term of 20 years from the United
+States filing date of the earliest non-provisional application upon which the
+patent is based.  The duration of foreign
+patents varies in accordance with applicable local law. While the duration of
+our patents varies, we believe that the duration of our patents is adequate
+relative to the expected lives of our products. Although the Company believes
+the ownership of such patents, copyrights, and trademarks is an important
+factor in its business and that its success depends in part on the ownership
+thereof, the Company relies primarily on the innovative skills, technical
+competence, and marketing abilities of its personnel.
+ 
+The Company also
+has various trademarks registered and pending registration with the United
+States Patent and Trademark Office, as well as marks registered and pending
+registration in various jurisdictions around the world.  Company patents and trademarks are carefully
+reviewed regularly, and those with no foreseeable commercial value are
+abandoned to eliminate costly maintenance fees. 
+The Company has ongoing research and development efforts and expects to
+seek additional intellectual property protection in the future.
+ 
+In addition to
+patents and pending patent applications, the Company uses trade secrets and
+proprietary know-how in our products. Any of our know-how or trade secrets not
+protected by a patent could be disclosed to, or independently developed by, a
+competitor.
+ 
+The Company
+believes that its patents, proprietary technology, trade secrets, know-how, and
+trademarks provide substantial protection for the Company’s competitive
+position and the Company intends to aggressively protect its intellectual
+property assets, by litigation or other means, as appropriate.  We have periodically monitored and continue
+to monitor the activities of our competitors and other third parties with
+respect to their use of intellectual property. In addition, we require our
+employees, consultants, outside collaborators, and certain distributors and
+suppliers to execute confidentiality and, where appropriate, non-competition
+agreements upon commencing employment or other relationships with us.  Nevertheless, there can be no assurances that
+the steps taken by the Company in this regard will be adequate to prevent
+misappropriation or infringement of its technology or that the Company’s
+competitors will not independently develop technologies that are substantially
+equivalent or superior to the Company’s technology.  Effective protection of intellectual property
+rights may be limited or unavailable in certain foreign countries.  See “Item 3. Legal Proceedings” below.
+ 
+Sales and
+Marketing
+ 
+The Company’s
+products are marketed to corporate and governmental organizations through a
+sales force that contacts potential customers and responds to public tenders
+and other expressions of interest. This sales force includes Company personnel
+based in the United States and abroad, as well as independent representatives
+under contracts to sell in foreign countries.
+ 
+Customers
+ 
+The Company has a
+customer base consisting of government and commercial clients from both the
+United States and abroad. Domestically, the Company’s primary client base is
+comprised of agencies of the U.S. Government. Approximately 56%, 55%, and 70%
+of the Company’s total sales in fiscal 2009, 2008, and 2007, respectively, were
+derived from either (i) contracting directly with the U.S. Government, or (ii) contracting
+with contractors working directly with the U.S. Government. A significant
+number of the Company’s contracts with the U.S. Government provide the U.S.
+Government with the standard unilateral right to terminate these contracts for
+convenience. As discussed under Item 7 of this Annual Report, during fiscal
+2009 two of the Company’s contracts with the U.S. Government were partially
+terminated for convenience by the U. S. Government.  These partial terminations did not result in
+any material losses to the Company.   The
+Company is heavily dependent upon sales to agencies of the U.S. Government and
+reductions or delays in procurement of the Company’s systems and services by
+these agencies may have a material adverse effect on the Company.
+ 
+International
+sales, primarily to foreign governments, accounted for approximately 37%, 36%,
+and 27% of the Company’s total sales in fiscal 2009, 2008, and 2007
+respectively, and continue to be a high priority for the Company as part of its
+long-term growth strategy. International sales entail longer sales cycles and
+project financing requirements; however the Company continues to focus on these
+sales as a means of broadening its customer base. The Company manages its
+overseas risk in a number of ways, including actively increasing the number of
+opportunities it is pursuing at any one time and obtaining downpayments and
+letters of credit to secure its international receivables. The majority of
+international contracts are bid in U.S.
+ 
+6
+
+
+
+
+
+Table of Contents
+ 
+dollars. For those
+contracts that are bid in other currencies, the Company considers the need to
+engage in hedging contracts to control foreign exchange risk. There were no
+hedging activities in fiscal 2009, 2008, or 2007.
+ 
+In fiscal 2009,
+the Company had sales to two major customers, one agency of the U.S. Government
+and one international government, which accounted for 18% and 16% of total
+sales, respectively.  In fiscal 2008, the
+Company had sales to two major customers, both agencies of the U.S. Government,
+which accounted for 12% and 10% of total sales. 
+In fiscal 2007, the Company had sales to two major customers, both
+agencies of the U.S. Government, which accounted for 31% and 15% of total
+sales.
+ 
+Competition
+ 
+The Company has
+many competitors in the homeland security X-ray detection market, including
+several large and well-established manufacturers of security equipment with
+financial and other resources greater than those of the Company. Certain X-ray
+security system customers select such systems based largely on price. Other
+customers, including some agencies of the U.S. Government and certain users in
+countries with high levels of concern over security, tend to select systems
+based largely on detection capability. 
+Many of the Company’s systems offer premium performance and have in some
+cases been priced higher than competing systems. The Company believes that its
+patented and proprietary technology give it a strong competitive position in
+the sale of security systems to customers concerned with performance and
+detection. The Company also believes that its strategy of concentrating on
+products with unique features, including Z Backscatter and Shaped Energy,
+and/or competitive pricing will give it a strong position to increase its sales
+of X-ray inspection systems. However, a number of companies have developed
+products that compete with the Company’s X-ray inspection products. (See Item
+1A.  Risk Factors)
+ 
+ISO 9001
+Certification
+ 
+In August 2006,
+the Company’s Quality Management System was recertified under the ISO 9001:2000
+Standard of the International Organization for Standardization which it has
+been registered under since 2003.  ISO
+9001 is an internationally recognized quality management and assurance standard.  In qualifying, the Company met or exceeded
+the standards for establishing a quality management system for preventing
+non-conformity at every level of the product life cycle, from customer order,
+through development and production, to installation and support.  The Company believes that demonstrating
+continuous quality improvement is vital for building customer satisfaction and
+making business processes more efficient in order to increase its competitive
+edge.
+ 
+Component
+Availability
+ 
+Critical material
+and subsystems are procured from both domestic suppliers and global supply
+partners.  These supply sources are in
+several cases, involving key components, single sources of supply and the
+material provided can have extended lead times. 
+In response to expanding customer demand in the global security
+screening market, the Company has taken steps to mitigate sourcing risks by
+working closely with its suppliers to ensure future material and subsystem
+availability to support its production plans. In some cases, the Company has
+chosen to stock reserve material to ensure future availability. Efforts have
+also included identifying and qualifying second source suppliers for critical
+material and a number of key subsystems in support of its product lines. The
+Company does not expect to experience sustained difficulties in securing
+required material and subsystems to support its future business operations.
+ 
+Regulatory Compliance
+ 
+AS&E must
+comply with applicable federal regulations under Title 21 CFR Subchapter J -
+Radiological Health.  To the Company’s
+knowledge, all AS&E cabinet X-ray products comply with all applicable U.S.
+Government radiation safety performance standards including 21 CFR 1020.40. To
+the Company’s knowledge, all personnel inspection systems of AS&E comply
+with the voluntary consensus radiation safety standards adopted by the American
+National Standards Institute ANSI N43.17-2002.
+ 
+Research
+and Development
+ 
+The Company spent
+approximately $18,070,000 of its own funds for research and development during
+fiscal 2009, compared to $12,306,000 and $7,184,000 in fiscal 2008 and 2007,
+respectively. The fiscal 2009 research and development efforts were focused on
+new product development, the development of new applications, and design
+modifications and enhancements to existing products.
+ 
+In addition, the
+Company conducted government-sponsored research primarily focused on advances
+in X-ray systems, image analysis and integrated system development for niche
+security inspection problems. The Company recognized revenues of $12,524,000,
+$13,978,000, and $6,597,000 in fiscal 2009, 2008, and 2007, respectively for
+these efforts. Many of the Company’s government sponsored research and
+development contracts provide for a fixed fee or a reimbursement of allowable
+costs plus a
+ 
+7
+
+
+
+
+
+Table of Contents
+ 
+fixed fee. The Company’s
+contracts in these areas are obtained by submitting research and development
+proposals to various organizations, sometimes in response to requests for such
+proposals.
+ 
+Personnel
+ 
+As of March 31,
+2009 the Company had 375 employees as compared to 346 employees at March 31,
+2008.   It is the Company’s policy to
+have employees sign a non-compete and non-disclosure agreement as a condition
+of employment. None of the Company’s employees are represented by labor unions.
+ 
+Sales
+Backlog
+ 
+The Company’s firm
+(signed contracts) sales backlog was $155,349,000, $99,606,000, and
+$105,634,000 at March 31, 2009, March 31, 2008, and March 31,
+2007, respectively.
+ 
+A significant
+number of the Company’s contracts with the U.S. Government contain clauses
+permitting the government to terminate the contract for convenience upon
+certain terms and conditions, including partial payment to the Company for work
+performed. This right was exercised in fiscal 2009 by two U.S. Government
+agencies who were parties to the contract. 
+Total contracts with U.S Government agencies and subcontractors in the
+backlog were $71,545,000, $42,640,000, and $58,833,000, at March 31, 2009,
+2008 and 2007, respectively. It is estimated that approximately 82% of the 2009
+backlog will be converted within the fiscal year ending March 31, 2010.
+ 
+Financial Information about Foreign and Domestic
+Operations and Export Sales
+ 
+Most export sales
+are transacted in U.S. dollars, and most are either secured by irrevocable
+letters of credit or paid in advance. The following table shows the breakdown
+of net sales and contract revenues to international and domestic customers
+based upon the customer’s country of domicile and the major regions of
+international activity. All assets are maintained within the United States with
+the exception of inventory depots, inventory in transit or awaiting
+installation and cash accounts maintained at foreign locations (approximately
+5.3% of the Company’s assets).
+ 
+Net Sales and Contract Revenues
+ 
+
+
+
+ 
+
+
+ 
+
+
+Fiscal Year
+
+
+ 
+
+
+
+
+(Dollars in thousands)
+
+
+ 
+
+
+2009
+
+
+ 
+
+
+2008
+
+
+ 
+
+
+2007
+
+
+ 
+
+
+
+
+Domestic
+
+
+ 
+
+
+$
+
+
+138,240
+
+
+ 
+
+
+63
+
+
+%
+
+
+$
+
+
+107,021
+
+
+ 
+
+
+64
+
+
+%
+
+
+$
+
+
+111,335
+
+
+ 
+
+
+73
+
+
+%
+
+
+
+
+International
+
+
+ 
+
+
+80,127
+
+
+ 
+
+
+37
+
+
+%
+
+
+59,712
+
+
+ 
+
+
+36
+
+
+%
+
+
+41,851
+
+
+ 
+
+
+27
+
+
+%
+
+
+
+
+Net Sales and Contract Revenues
+
+
+ 
+
+
+$
+
+
+218,367
+
+
+ 
+
+
+100
+
+
+%
+
+
+$
+
+
+166,733
+
+
+ 
+
+
+100
+
+
+%
+
+
+$
+
+
+153,186
+
+
+ 
+
+
+100
+
+
+%
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Percent of International Revenue by Major
+  Region:
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Middle East & Africa
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+85
+
+
+%
+
+
+ 
+
+
+ 
+
+
+70
+
+
+%
+
+
+ 
+
+
+ 
+
+
+66
+
+
+%
+
+
+
+
+Pacific Rim
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+7
+
+
+%
+
+
+ 
+
+
+ 
+
+
+14
+
+
+%
+
+
+ 
+
+
+ 
+
+
+20
+
+
+%
+
+
+
+
+Europe
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+8
+
+
+%
+
+
+ 
+
+
+ 
+
+
+14
+
+
+%
+
+
+ 
+
+
+ 
+
+
+14
+
+
+%
+
+
+
+
+All Other
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+—
+
+
+%
+
+
+ 
+
+
+ 
+
+
+2
+
+
+%
+
+
+ 
+
+
+ 
+
+
+—
+
+
+%
+
+
+
+ 
+Available Information
+ 
+The Company’s
+principal executive offices are located at 829 Middlesex Turnpike, Billerica,
+MA 01821; telephone number 978-262-8700; corporate website www.as-e.com. We
+make available, free of charge through our website, our annual Form 10-K,
+current reports on Form 10-Q and Form 8-K, and amendments to these
+reports filed or furnished pursuant to Section 13(a) of the
+Securities Exchange Act of 1934 as soon as practicable. In addition, our
+reports, proxy and information statements and other information filed with the
+SEC are available at the SEC’s Public Reference Room at 100 F Street, NE, Room 1580,
+Washington, DC 20549 (1-800-SEC-0330), and are also available from the SEC’s
+website at www.sec.gov.
+ 
+ITEM
+1A.  RISK FACTORS
+ 
+You should
+carefully consider the following risk factors, in addition to other information
+included in this Annual Report on Form 10-K and other reports we file with
+the Securities and Exchange Commission. 
+If any of the following risks occur, the Company’s business, financial
+condition and operating results could be materially adversely affected.
+ 
+The
+Company’s reliance on a small number of customers for a large portion of its
+revenues could harm its business and prospects. 
+A number of contracts held by those customers may be terminated at the
+customer’s discretion.
+ 
+8
+
+
+
+
+
+Table
+of Contents
+ 
+The Company’s
+business is dependent on sales to a small number of customers, which include
+agencies of the United States government. During fiscal 2009, two customers
+accounted for 34% of the Company’s total revenues.   During fiscal 2008, two customers accounted
+for 22% of the Company’s total revenues and during fiscal 2007, two customers
+accounted for 46% of the Company’s total revenues. The Company can provide no
+assurance that its existing customers will increase or maintain their level of
+demand for the Company’s products.
+ 
+A significant
+number of the Company’s government contracts may be terminated at the
+government’s discretion. During fiscal 2009, two of the Company’s contracts
+with the U.S. Government were partially terminated for convenience by the U.S.
+Government.  Although these partial
+terminations did not result in material losses to the Company, future contract
+terminations could negatively impact the Company’s results of operations.  The termination of the Company’s relationship
+with one or more of its significant customers or the reduction or delay of
+orders of its systems by these customers would substantially reduce the Company’s
+revenues, and its business and prospects may be harmed.
+ 
+The
+Company’s results of operations are affected by the overall economy and
+governmental spending.
+ 
+The Company’s
+results of operations may be materially adversely affected by the conditions in
+the global economy and the impact of those conditions on U.S. and foreign
+government spending. The global economic recession has caused extreme
+volatility and disruptions in the capital and credit markets, including a
+significant reduction in the availability of capital resources to many business
+enterprises. U.S. and foreign economies have experienced and continue to
+experience significant declines in employment, spending, household wealth and
+lending.  Businesses have faced and may
+continue to face weakened demand for their products and services, difficulty
+obtaining access to financing, increased funding costs, and barriers to
+expanding operations. U.S. and foreign government spending for programs
+involving products such as the Company’s may be reduced or delayed, now or in
+the future, due to reduced tax revenues and other spending imperatives,
+including financial institution support and economic stimulus programs.  Economic and market conditions may continue
+to worsen and could negatively impact the Company’s results of operations.
+ 
+The
+Company’s business is dependent upon governmental policies and appropriations.
+ 
+The Company’s largest
+customers are government agencies and demand for its products is dependent upon
+national priorities and governmental initiatives. These priorities and
+initiatives are subject to change from time to time in response to the economic
+and political environment.   The Company
+is also exposed to budget approval and appropriation decisions and processes
+which are driven by numerous factors, including geo-political events and
+macroeconomic conditions, and are beyond our control. While the overall level
+of U.S. defense spending has increased in recent years for numerous reasons, we
+can give no assurance that such spending will continue to grow, or not be reduced.
+Significant changes in defense spending could have long-term consequences for
+our size and structure. In addition, changes in government priorities and
+requirements could impact the funding, or the timing of funding, of our
+programs which could negatively impact our results of operations and financial
+condition.
+ 
+The
+Company’s lengthy sales cycle requires it to incur significant expenses with no
+assurance that it will generate revenue or recover such expenses.
+ 
+A substantial
+portion of the Company’s sales depends upon the decision of governmental
+agencies to upgrade or expand security at border crossing inspection sites,
+existing airports, seaports and other facilities. Accordingly, a portion of the
+Company’s product sales is subject to delays associated with the lengthy
+approval processes that often accompany such capital expenditures. During these
+approval periods, the Company expends significant financial and managerial
+resources in anticipation of future orders that may not occur. If the Company fails
+to receive an order after expending these resources, it may be unable to
+generate sufficient revenue to recover the costs incurred and its business and
+prospects may be harmed.
+ 
+The
+Company conducts its business worldwide, which exposes it to a number of
+difficulties in coordinating its international activities and dealing with
+multiple regulatory environments.
+ 
+The Company’s
+revenues to international customers, including foreign governments, accounted
+for approximately 37%, 36% and 27% of its net revenues for the fiscal years
+ended March 31, 2009, March 31, 2008 
+and March 31, 2007, respectively, and a significant number of
+domestic customer orders require shipments to, and services provided in,
+overseas locations. In addition, the Company transacts business internationally
+with a number of its key suppliers. As a result of the Company’s worldwide
+business operations, it is subject to various risks, including:
+ 
+· international regulatory requirements and policy
+changes;
+ 
+· lengthy sales cycles;
+ 
+· longer payment cycles by foreign customers;
+ 
+9
+
+
+
+
+
+Table
+of Contents
+ 
+· difficulties in inventory management, accounts
+receivable collection and the management of distributors or representatives;
+ 
+· difficulties in staffing and managing foreign
+operations;
+ 
+· geopolitical instability;
+ 
+· political and economic changes and disruptions;
+ 
+· favoritism towards local suppliers;
+ 
+· governmental currency controls;
+ 
+· interruption to transportation flow for delivery of
+parts to us and finished goods to our customers;
+ 
+· currency exchange rate fluctuations; and
+ 
+· tariff regulations.
+ 
+Although the
+Company’s international sales have been denominated primarily in U.S. dollars,
+changes in currency exchange rates that increase the relative value of the U.S.
+dollar may make it more difficult for the Company to compete with foreign
+manufacturers on price or otherwise have a material adverse effect on its sales
+and operating results.
+ 
+Changes
+in governmental regulations may reduce demand for the Company’s products or
+increase its expenses.
+ 
+The Company
+competes in markets in which the Company or its customers must comply with
+federal, state, local and foreign regulations, such as health and safety
+regulations. The Company develops, configures and markets its products to meet
+its customers’ needs created by these regulations. Any significant change in
+these regulations could reduce demand for the Company’s products or increase
+its costs to comply with new regulations, both of which may adversely affect
+its operating results.
+ 
+The
+Company’s reliance on a limited number of suppliers for some key components for
+its products could harm its business and prospects.
+ 
+The Company relies
+on a number of suppliers to provide material and subsystems for our products.
+The Company is reliant on a limited number of key international supply partners
+for core technology products, including subsystems with complex sub-tier supply
+chains.  In addition, certain material or
+subsystems used in our products may be available from a sole source or limited
+number of suppliers, increasing the risk of supply disruption. Although our
+products may be able to be redesigned to avoid using any sole source supplier,
+it would be expensive and time consuming to make such a change. If the Company
+changes any of its suppliers, a qualification process would need to be
+completed and the affected product may require redesign, creating potential
+delays in product shipments.
+ 
+Some of our
+suppliers may allocate material due to market demand for the products they
+produce or market constraints such as the global availability of raw materials.
+We have no guaranteed supply arrangements with our suppliers and there can be
+no assurance that our suppliers will continue to meet our requirements. Many of
+our competitors are much larger and may be able to obtain priority allocations
+from these shared suppliers, thereby limiting or making our sources of supply
+unreliable for these components. There is also the possibility that a key
+single source supplier may be acquired by or form a strategic alignment with a
+competitor, which could impact our ability to secure required materials.  If our supply of materials is disrupted, we
+cannot ensure that we would be able to find another supplier on a timely basis.
+ 
+The Company
+depends on its subcontractors and suppliers to deliver material that is in full
+compliance with critical quality and specification requirements. Quality issues
+may affect the reliability and performance of our products, customer
+confidence, and adversely impact financial performance. Any difficulty in
+obtaining sufficient and timely delivery of conforming material could result in
+delays or reductions in product shipments that could materially and adversely
+affect our business, financial condition and consolidated results of
+operations. This in turn could also damage our reputation in the market and
+cause us to lose market share. The Company does not expect to experience
+sustained difficulties in securing required material and subsystems to support
+forward business operations.
+ 
+10
+
+
+
+
+
+Table
+of Contents
+ 
+Fluctuations
+in the Company’s operating results and unanticipated contract terminations may
+cause its stock price to fluctuate.
+ 
+Given the nature
+of the markets in which the Company participates, and given the right of key
+customers to terminate contracts at their discretion, it cannot reliably
+predict future revenue and profitability. A high proportion of the Company’s
+costs are fixed, due in part to its significant sales, research and
+development, and manufacturing costs. As a result of its fixed costs, even
+small declines in revenue could disproportionately affect the Company’s
+operating results and stock price at any time. Factors that may affect the
+Company’s quarterly operating results and the market price of its common stock
+include:
+ 
+· demand for and market acceptance of its X-ray
+inspection systems;
+ 
+· lengthy sales cycles and the effect of large orders;
+ 
+· termination of contracts and contractual awards at
+the customer’s convenience;
+ 
+· changes in political agendas or national priorities;
+ 
+· adverse changes in the level of economic activity in
+regions in which the Company does business;
+ 
+· political unrest in the regions where the Company
+transacts business;
+ 
+· adverse changes in industries on which the Company is
+particularly dependent;
+ 
+· competitive pressures resulting in lower selling
+prices for its products;
+ 
+· delays or problems in the introduction of new
+products;
+ 
+· the Company’s competitors’ announcement or
+introduction of new products, services or technological innovations;
+ 
+· variations in the Company’s product mix;
+ 
+· the timing and amount of the Company’s expenditures
+in anticipation of future sales;
+ 
+· increased costs of raw materials or supplies; and
+ 
+· changes in the volume or timing of product orders.
+ 
+The
+Company could incur substantial costs as a result of product liability claims
+and adverse publicity if its X-ray inspection systems fail to detect bombs,
+explosives, weapons, contraband or other threats to personal safety.
+ 
+If the Company’s
+X-ray inspection systems fail to detect the presence of bombs, explosives,
+weapons, contraband or other threats to personal safety, the Company could be
+subject to product liability claims and negative publicity, which could result
+in increased costs, reduced sales, and a decline in the market price of the
+Company’s common stock. There are many factors beyond the Company’s control
+that could result in the failure of its products to detect the presence of
+bombs, explosives, weapons, contraband or other threats to personal safety.
+Examples of these factors include operator error or misuse of or malfunction of
+its equipment. The failure of the Company’s systems to detect the presence of
+these dangerous materials may lead to personal injury, loss of life, and
+extensive property damage and may result in potential claims against the
+Company.
+ 
+The
+Company’s insurance may be insufficient to protect it from product liability
+claims.
+ 
+The Company’s
+product liability and umbrella liability insurance may be insufficient to
+protect it from product liability claims. Moreover, there is a risk that
+product liability insurance will not continue to be available to the Company at
+a reasonable cost, if at all. If liability claims exceed the Company’s current
+or available insurance coverage, its business and prospects may be harmed.
+Regardless of the adequacy of the Company’s product liability insurance
+protection, any significant claim may have an adverse affect on its industry
+and market reputation, leading to a substantial decrease in demand for its
+products and reduced revenues.
+ 
+The
+Company may not be able to fund its research and development activities.
+ 
+The Company
+generates funds for its research and development activities from operations,
+private sources and the government. The Company may be unable to generate the
+funds necessary to support its research and development activities if it does
+not generate sufficient funds from operations, other potential private sources,
+or the government. The Company may not successfully compete with other
+companies and research institutions for government funding and funding from
+other private sources. Additionally, government-funding priorities are subject
+to frequent changes. For example, in fiscal 2009, 2008, and 2007, the Company
+recorded $12,524,000, $13,978,000 and $6,597,000, respectively, for
+government-sponsored research and
+ 
+11
+
+
+
+
+
+Table
+of Contents
+ 
+development. There is no
+guarantee that the Company will receive funds for government-sponsored research
+in the future. If the Company is unable to fund its research and development
+activities through its operations or from outside sources, the Company may be
+unable to continue to innovate or bring its innovations to market on a timely
+or cost effective basis, or its innovations may be surpassed by other
+competitors or new technologies.
+ 
+The
+Company’s success depends on new product development.
+ 
+The Company’s
+continuing research and development program is designed to develop new products
+and to enhance and improve its current products. The Company plans to expend
+significant resources on the development of its new products. The successful
+development of its products and product enhancements is subject to numerous
+risks, both known and unknown, including:
+ 
+· unanticipated delays;
+ 
+· access to capital;
+ 
+· budget overruns;
+ 
+· technical problems; and
+ 
+· other difficulties that could result in the
+abandonment or substantial change in the design, development and commercialization
+of new products and product enhancements, including for example, changes
+requested or required by governmental and regulatory agencies.
+ 
+Given the
+uncertainties inherent with product development and introduction of X-ray
+inspection systems, the Company cannot assure that its product development
+efforts will be successful on a timely basis or within budget, if at all. The
+Company’s failure to develop new products and product enhancements on a timely
+basis or within budget would harm its business and prospects.
+ 
+The Company’s success
+depends upon its ability to adapt to rapid changes in technology and customer
+requirements.
+ 
+The market for the Company’s products has been characterized by rapid
+technological changes, frequent product introductions and evolving industry
+standards and customer requirements. The Company believes that these trends
+will continue into the foreseeable future. The Company’s success will depend,
+in part, upon its ability to enhance its existing products, successfully
+develop new products that meet changing customer and regulatory requirements
+and gain market acceptance. If the Company fails to do so, its products may be
+rendered obsolete or noncompetitive by new industry standards or changing
+technology, in which case its revenue and operating results would suffer. In
+developing any new product, the Company may be required to make a substantial
+investment before it can determine the commercial viability of the new product.
+If the Company fails to accurately foresee its customers’ needs and future
+activities, it may invest heavily in research and development of products that
+do not lead to significant revenue.
+ 
+The
+Company may not be able to compete successfully.
+ 
+A number of companies have developed products that compete with the
+Company’s X-ray inspection products. Many of the Company’s competitors are
+larger and have greater financial resources than it does. Some of its
+competitors have more extensive research, marketing and manufacturing
+capabilities and greater technical and personnel resources than the Company
+does, and may be better positioned to continue to improve their technology in
+order to compete in an evolving industry. The Company’s failure to compete
+successfully could decrease demand for its products or make its products
+obsolete.
+ 
+In the inspection systems market, competition is based primarily on the
+following factors:
+ 
+·
+product performance, functionality and quality;
+ 
+·
+price;
+ 
+·
+the overall cost of ownership of the system;
+ 
+·
+prior customer relationships;
+ 
+·
+technological capabilities of the product;
+ 
+·
+certification by government authorities;
+ 
+12
+
+
+
+
+
+Table
+of Contents
+ 
+·
+local market presence; and
+ 
+·
+breadth of the sales and service organization.
+ 
+To remain competitive, the Company must develop new products and
+periodically enhance its existing products in a timely manner. The Company
+anticipates that it may have to adjust the prices of some of its products to
+stay competitive. In addition, new competitors may emerge, and entire product
+lines may be threatened by new technologies or market trends that reduce the
+value of these product lines.
+ 
+The Company’s business could
+be harmed if it is unable to protect its intellectual property.
+ 
+The Company relies primarily on a combination of trade secrets, patents,
+copyrights, trademarks and confidentiality procedures to protect its
+technology. Despite its precautions, the steps the Company has taken to protect
+its technology may be inadequate. Existing trade secret, patent, trademark and
+copyright laws offer only limited protection. The Company’s patents could be
+invalidated or circumvented.  In
+addition, others may develop substantially equivalent or superseding
+proprietary technology, or competitors may offer equivalent products in
+competition with the Company’s products, thereby substantially reducing the
+value of the Company’s proprietary rights. The laws of some foreign countries
+in which the Company’s products are or may be developed, manufactured or sold
+may not protect its products or intellectual property rights to the same extent
+as do the laws of the United States. This may make the possibility of piracy of
+the Company’s technology and products more likely. The Company cannot assure
+that the steps it has taken to protect its intellectual property will be
+adequate to prevent misappropriation of its technology. The Company’s inability
+to protect its intellectual property could have a negative impact on its
+operations and financial results.
+ 
+The
+Company’s business may be materially and adversely affected by infringement
+claims initiated by the Company or its competitors.
+ 
+Initiating or
+defending against the enforcement of the Company’s intellectual property rights
+may result in significant, protracted, and costly litigation. The Company has
+previously been and continues to be involved in various litigations involving
+its intellectual property and has been successful in protecting such interests
+to date. The Company expects intellectual property disputes to be an ordinary
+part of its business for the foreseeable future. The Company may initiate
+claims or litigation against third parties for infringement of its intellectual
+property rights, or to establish the validity of its property rights. There can
+be no assurance that the Company will prevail in any such action. Litigation by
+or against the Company could result in significant expense and divert the
+efforts of technical and management personnel, whether or not such litigation
+results in a favorable outcome for the Company. In the event of an adverse
+result in any such litigation, the Company could be required to pay substantial
+damages, cease the manufacture, use and sale of infringing products, expend significant
+resources to develop non-infringing technology, discontinue the use of certain
+processes, or obtain licenses for the infringing technology. If a license were
+required, the Company cannot assure that it would be able to obtain one on
+commercially reasonable terms, if at all. The Company cannot assure that it
+will be successful in developing non-infringing technology or that the cost or
+time required to develop such technology will be reasonable.
+ 
+The
+Company’s success depends on its ability to attract and retain qualified
+management professionals.
+ 
+The Company’s
+future success depends in large measure upon the continued contributions of its
+senior management team and other key personnel. 
+We cannot guarantee that we will be able to attract and retain key
+personnel or executive management in sufficient numbers, with the requisite
+skills or on acceptable terms necessary or advisable to support our continued
+growth.  If we lose professionals or are
+unable to attract new talent, we will not be able to maintain our position in
+the market or grow our business.
+ 
+Existing
+external financing may not be available in the future.
+ 
+The Company may
+require additional capital to finance continuing operations. The Company cannot
+assure that operations will continue to be profitable, that it will generate
+levels of revenues and cash flows sufficient to fund operations, or, if
+necessary, that the Company will be able to obtain additional financing on
+satisfactory terms, if at all. Any existing financing arrangements may not be
+available or sufficient to meet the Company’s cash needs or may not be
+available in the future, or, if available, at a cost that the Company believes
+is reasonable.
+ 
+Future
+sales of the Company’s common stock by existing stockholders could depress the
+market price of the Company’s common stock.
+ 
+Substantially all
+of the Company’s outstanding shares of common stock are freely tradable without
+restriction or further registration. Affiliates must sell all shares they own
+in compliance with the volume and other requirements of Rule 144.
+ 
+13
+
+
+
+
+
+Table
+of Contents
+ 
+Nevertheless, sales of
+substantial amounts of common stock by the Company’s stockholders, or even the
+potential for such sales, may cause the market price of the Company’s common
+stock to decline and could impair the Company’s ability to raise capital
+through the sale of the Company’s equity securities.
+ 
+The
+volatility of the Company’s stock price could adversely affect an investment in
+the Company’s common stock.
+ 
+The market price
+of the Company’s common stock has been, and may continue to be, highly
+volatile. The Company believes that a variety of factors could cause the price
+of the Company’s common stock to fluctuate, perhaps substantially, including:
+ 
+·
+announcements of developments related to the Company’s business;
+ 
+· quarterly fluctuations in the Company’s actual or
+anticipated operating results and order levels;
+ 
+· general conditions in the worldwide economy;
+ 
+· announcements of technological innovations;
+ 
+· new products or product enhancements by the Company
+or its competitors;
+ 
+· developments in patents or other intellectual
+property rights and litigation; and
+ 
+· developments in the Company’s relationships with its
+customers and suppliers.
+ 
+In addition, in
+recent years the stock market in general, and the markets for shares of small
+capitalization and “high-tech” companies in particular, have experienced
+extreme price fluctuations which have often been unrelated to the operating
+performance of affected companies. Any such fluctuations in the future could
+adversely affect the market price of the Company’s common stock.
+ 
+Provisions
+in the Company’s articles of organization and the Company’s shareholder rights
+plan may have the effect of discouraging advantageous offers for the Company’s
+business or common stock, and limit the price that investors might be willing
+to pay in the future for shares of the Company’s common stock.
+ 
+Provisions in the
+Company’s articles of organization and the Company’s shareholder rights plan
+may have the effect of discouraging or preventing a change in control. These
+provisions could limit the price that acquirers might be willing to pay in the
+future for shares of the Company’s common stock. Specifically, the Company’s
+articles of organization authorize its Board of Directors to issue up to
+100,000 shares of preferred stock in one or more series, to fix certain rights,
+preferences, privileges and restrictions granted to or imposed upon any wholly
+unissued shares of preferred stock, to fix the number of shares constituting
+any such series, and to fix the designation of any such series, without further
+vote or action by its shareholders. The terms of any series of preferred stock,
+which may include priority claims to assets and dividends and special voting
+rights, could adversely affect the rights of the holders of common stock and
+thereby reduce the value of the Company’s common stock. The Company has no
+present plans to issue shares of preferred stock. The Company has in place a
+shareholder rights plan, which was renewed in April of 2008, under which
+its stockholders are entitled to purchase shares of its preferred stock under
+certain circumstances. These circumstances include the purchase of 15% or more
+of the outstanding shares of common stock by a person or group, or the
+announcement of a tender or exchange offer to acquire 15% or more of the
+outstanding common stock. The shareholder rights plan may have the effect of
+impeding or preventing certain types of transactions involving a change in
+control of the Company that could be beneficial to the stockholders.
+ 

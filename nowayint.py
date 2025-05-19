@@ -206,13 +206,24 @@ class SECRiskFactorExtractor:
             # Extract text content
             text_content = soup.get_text(" ", strip=True)
             
-            # Find Item 1A section
-            item_1a_pattern = re.compile(r'(?:Item|ITEM)\s*1A\.?\s*(?:Risk\s*Factors|RISK\s*FACTORS)', re.IGNORECASE)
-            item_1b_pattern = re.compile(r'(?:Item|ITEM)\s*1B\.?', re.IGNORECASE)
-            item_2_pattern = re.compile(r'(?:Item|ITEM)\s*2\.?', re.IGNORECASE)
+            # Debug: Print first 500 characters of text content
+            logger.info(f"First 500 characters of text content: {text_content[:500]}")
             
-            # Search for Item 1A in the HTML content
-            start_match = item_1a_pattern.search(text_content)
+            # Find Item 1A section with more flexible patterns
+            item_1a_patterns = [
+                r'(?:Item|ITEM)\s*1A\.?\s*(?:Risk\s*Factors|RISK\s*FACTORS)',
+                r'(?:Item|ITEM)\s*1A\.?\s*(?:Risk\s*Factors|RISK\s*FACTORS)\.?',
+                r'(?:Item|ITEM)\s*1A\.?\s*(?:Risk\s*Factors|RISK\s*FACTORS)\.?\s*(?:Item|ITEM)\s*1A\.?\s*(?:Risk\s*Factors|RISK\s*FACTORS)',
+                r'(?:Item|ITEM)\s*1A\.?\s*(?:Risk\s*Factors|RISK\s*FACTORS)\.?\s*(?:Item|ITEM)\s*1A\.?\s*(?:Risk\s*Factors|RISK\s*FACTORS)\.?'
+            ]
+            
+            start_match = None
+            for pattern in item_1a_patterns:
+                start_match = re.search(pattern, text_content, re.IGNORECASE)
+                if start_match:
+                    logger.info(f"Found Item 1A with pattern: {pattern}")
+                    break
+            
             if not start_match:
                 logger.error(f"Could not find Item 1A Risk Factors section in {url}")
                 return None, filing_date, reporting_date
@@ -220,19 +231,28 @@ class SECRiskFactorExtractor:
             start_pos = start_match.end()
             
             # Find the end of Item 1A (either Item 1B or Item 2)
+            item_1b_pattern = re.compile(r'(?:Item|ITEM)\s*1B\.?', re.IGNORECASE)
+            item_2_pattern = re.compile(r'(?:Item|ITEM)\s*2\.?', re.IGNORECASE)
+            
             end_match_1b = item_1b_pattern.search(text_content[start_pos:])
             end_match_2 = item_2_pattern.search(text_content[start_pos:])
             
             if end_match_1b:
                 end_pos = start_pos + end_match_1b.start()
+                logger.info("Found end of section at Item 1B")
             elif end_match_2:
                 end_pos = start_pos + end_match_2.start()
+                logger.info("Found end of section at Item 2")
             else:
                 # Default to a reasonable amount of text if no clear ending is found
                 end_pos = start_pos + 50000  # Arbitrary limit
+                logger.info("No clear end found, using default limit")
             
             # Extract the risk factors section
             risk_factors_section = text_content[start_pos:end_pos]
+            
+            # Debug: Print first 500 characters of risk factors section
+            logger.info(f"First 500 characters of risk factors section: {risk_factors_section[:500]}")
             
             return risk_factors_section, filing_date, reporting_date
         
@@ -246,28 +266,33 @@ class SECRiskFactorExtractor:
             if not risk_factors_section:
                 return []
                 
+            # Debug: Print the first 1000 characters of the risk factors section
+            logger.info(f"First 1000 characters of risk factors section: {risk_factors_section[:1000]}")
+            
             # Various patterns to identify risk factor titles
-            # These titles are typically formatted in bold or with special formatting
-            # and often followed by a paragraph of explanatory text
-            
-            # Pattern 1: Sentences ending with a period followed by a paragraph break
-            pattern1 = r'([A-Z][^.]*?\.)\s*(?:\n\n|\r\n\r\n)'
-            
-            # Pattern 2: Bold or italic text (indicated by HTML tags that might remain)
-            pattern2 = r'(?:<b>|<strong>|<i>|<em>)(.*?)(?:</b>|</strong>|</i>|</em>)'
-            
-            # Pattern 3: Lines in all caps or starting with capitals and ending with period
-            pattern3 = r'\n([A-Z][A-Z0-9\s,\.&;:\-\'\"()]+\.)'
-            
-            # Pattern 4: Numbered risk factors
-            pattern4 = r'(?:\n|\r\n)(?:\d+\.|\•|\*)\s*([A-Z][^.]*?\.)'
-            
-            # Combine all patterns
-            all_patterns = [pattern1, pattern2, pattern3, pattern4]
+            patterns = [
+                # Pattern 1: Numbered risk factors (e.g., "1. Risk of X")
+                r'(?:\n|\r\n)(?:\d+\.|\•|\*)\s*([A-Z][^.]*?\.)',
+                
+                # Pattern 2: All caps titles
+                r'(?:\n|\r\n)([A-Z][A-Z0-9\s,\.&;:\-\'\"()]+\.)',
+                
+                # Pattern 3: Sentences starting with capital letters
+                r'(?:\n|\r\n)([A-Z][^.]*?\.)',
+                
+                # Pattern 4: Bold or italic text (if HTML tags remain)
+                r'(?:<b>|<strong>|<i>|<em>)(.*?)(?:</b>|</strong>|</i>|</em>)',
+                
+                # Pattern 5: Risk factor specific patterns
+                r'(?:Risk|RISK)\s*(?:Factor|FACTOR)[s:]?\s*([A-Z][^.]*?\.)',
+                r'(?:We|WE)\s*(?:face|FACE|may|MAY|could|COULD)\s*(?:risks|RISKS)\s*(?:related|RELATED)\s*(?:to|TO)\s*([A-Z][^.]*?\.)'
+            ]
             
             titles = []
-            for pattern in all_patterns:
+            for pattern in patterns:
                 matches = re.findall(pattern, risk_factors_section)
+                if matches:
+                    logger.info(f"Found {len(matches)} titles with pattern: {pattern}")
                 titles.extend(matches)
             
             # Clean up titles
@@ -275,6 +300,7 @@ class SECRiskFactorExtractor:
             for title in titles:
                 # Remove common prefixes
                 title = re.sub(r'^(?:Risk Factor|RISK FACTOR)[s:]?\s*', '', title)
+                title = re.sub(r'^(?:We|WE)\s*(?:face|FACE|may|MAY|could|COULD)\s*(?:risks|RISKS)\s*(?:related|RELATED)\s*(?:to|TO)\s*', '', title)
                 
                 # Remove extra whitespace and normalize
                 title = re.sub(r'\s+', ' ', title).strip()
@@ -303,15 +329,10 @@ class SECRiskFactorExtractor:
                     continue
                     
                 filtered_titles.append(title)
-                
-            # If we didn't find any titles with the above patterns, try a more aggressive approach
-            if not filtered_titles:
-                # Look for sentences that start with capital letters and end with periods
-                sentences = re.findall(r'([A-Z][^.]*?\.)', risk_factors_section)
-                for sentence in sentences:
-                    # Only consider sentences that seem like titles (not too long, not too short)
-                    if 10 < len(sentence) < 200:
-                        filtered_titles.append(sentence.strip())
+            
+            logger.info(f"Found {len(filtered_titles)} unique risk factor titles")
+            if filtered_titles:
+                logger.info(f"Sample titles: {filtered_titles[:3]}")
             
             return filtered_titles
         

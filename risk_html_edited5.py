@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import time
+import logging
 
 # Replace with your email
 HEADERS = {
@@ -10,6 +11,8 @@ HEADERS = {
     'Accept-Encoding': 'gzip, deflate',
     'Host': 'www.sec.gov'
 }
+
+logger = logging.getLogger(__name__)
 
 def get_10k_url_and_filing_date(cik, filing_year):
     """Get the 10-K URL and filing date"""
@@ -157,6 +160,53 @@ def extract_risk_factor_titles(section_soup):
     
     return clean_titles
 
+def extract_risk_factor_section(soup, filing_year):
+    """Extract the risk factor section"""
+    html_str = str(soup)
+    text_str = soup.get_text()
+    
+    # Look for risk factor section
+    item_1a_patterns = [
+        r'Item\s*1A\.?\s*Risk\s*Factors',
+        r'ITEM\s*1A\.?\s*RISK\s*FACTORS',
+        r'RISK\s+FACTORS'
+    ]
+    
+    item_1b_patterns = [
+        r'Item\s*1B',
+        r'ITEM\s*1B',
+        r'Item\s*2',
+        r'ITEM\s*2',
+        r'PART\s*II'
+    ]
+    
+    # Find start position
+    start_pos = None
+    for pattern in item_1a_patterns:
+        match = re.search(pattern, html_str, re.IGNORECASE)
+        if match:
+            start_pos = match.end()
+            break
+    
+    if start_pos is None:
+        return None
+    
+    # Find end position
+    end_pos = None
+    for pattern in item_1b_patterns:
+        match = re.search(pattern, html_str[start_pos:], re.IGNORECASE)
+        if match:
+            end_pos = start_pos + match.start()
+            break
+    
+    if end_pos is None:
+        # Use a reasonable chunk if no end marker found
+        end_pos = start_pos + 50000
+    
+    section_html = html_str[start_pos:end_pos]
+    reporting_date = extract_reporting_date(text_str, filing_year)
+    return BeautifulSoup(section_html, 'lxml'), reporting_date
+
 def main():
     """Main function"""
     # Load the input file
@@ -230,6 +280,10 @@ def main():
         
         # Sleep to respect rate limits
         time.sleep(1)
+        
+        logger.info(f"Filing URL: {filing_url}")
+        logger.info(f"Filing date: {filing_date}, Reporting date: {reporting_date}")
+        logger.info(f"Risk factors section length: {len(risk_section) if risk_section else 0}")
     
     # Write output
     output_df = pd.DataFrame(output_rows)
